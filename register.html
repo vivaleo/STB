@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<title>会员注册 - 世投邦 | 专业的融资服务平台</title>
+<meta name="keywords" content="会员注册,注册,免费注册,世投邦,投融资信息,投融资平台">
+<meta name="description" content="欢迎免费注册世投邦会员！世投邦是专业的融资服务平台，集投资、 融资、选项目、找资金、招商引资、创业投资、风险投资等投融资信息服务为一体，为广大用户提供有针对性的 、线上线下相结合的投融资信息和项目对接服务。选投资项目，找项目资金，就上世投邦！">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<meta name="applicable-device" content="pc"/>
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" /> 
+<link href="css/bootstrap.css"
+<link href="./concat.css" rel="stylesheet" type="text/css" />
+<link href="ui-dialog.css" rel="stylesheet" type="text/css" />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script>
+try{(function(){if(document.cookie.indexOf('TRJ_Towap=1')>-1)return;
+var emta = document.getElementsByTagName('meta');
+for(var _k in emta) {
+if (emta[_k].getAttribute('http-equiv')=='mobile-agent'){
+var mobile_agent = emta[_k];
+var userAgents=['Android','iPhone','iPod','iPad'];
+for(var i in userAgents) {if(new RegExp(userAgents[i], 'i').test(navigator.userAgent)){
+var _url = mobile_agent.getAttribute('content').split('url=')[1];
+if (_url.indexOf('http://')>-1)location.href=_url;
+break;}}}}})()}catch(e){}
+</script>
+
+
+<!--[if lt IE 10]>
+<script src="/assets/src/lib/html5shiv.js"></script>
+<script src="/assets/src/lib/jquery_1.10.2.js"></script>
+<script src="/assets/src/lib/placeholder_old.js"></script>
+<![endif]-->
+
+</head>
+
+<body>
+	
+	<div id="page">
+		<header id="header">
+			<div class="container">
+				<h1 class="logo">
+					<a href="http://www.stwstb.com" style="display:block;">世投邦</a>
+				</h1>
+				<div class="sub-logo">会员登录</div>
+				<div class="fn-right service-hotline">
+					<i class="icon-part-bg icon-part-phone"></i>服务热线：400 858 9000				</div>
+			</div>
+		</header>
+		<div class="container fn-mt-20 fn-mb-20">
+			<div class="log-reg-hd fn-clear">
+				<p class="fn-right">
+					<a href="http://www.stwstb.com">返回首页</a>|
+					<a href="http://www.stwstb.com/help.html">帮助中心</a>
+				</p>
+				<h1 class="fn-left">快速注册</h1>
+			</div>
+			<div class="fn-clear log-reg-bd log-reg-bd-b">
+				<div class="log-reg-arrow-a"></div>
+				<div class="log-reg-arrow-b"></div>
+				<div class="log-reg-form-bd">
+					<h1>
+						成功融资超<span>1000亿&nbsp;&nbsp;&nbsp;&nbsp;22年</span>项目与资本对接经验
+					</h1>
+					<form method="post" id="J_regfrm">
+						<article>
+							<label class="log-reg-title"><span class="ui-text-red">*</span>手机号码：</label>
+							<section>
+								<input id="J_mobile" type="text" name="mobile" class="t_input" placeholder="输入您的手机号码">
+								<div id="J_mobile_info" class="log-reg-form-msg"></div>
+							</section>
+						</article>
+						<article>
+							<label class="log-reg-title"><span class="ui-text-red">*</span>图片验证：</label>
+							<section>
+								<input type="text" name="login_yzcode" id="login_yzcode" class="t_input wb40" placeholder="输入计算结果" id="J_mobile_code">
+								<img id="yzimg" src="http://www.stwstb.com/util/captcha_page.html" onclick="this.src='http://www.stwstb.com/util/captcha_page.html?'+Math.random()" alt="计算结果"
+									 style="position: absolute; width: 108px; height: 30px;">
+								<div id="J_mobile_msg_info" class="log-reg-form-msg" style="position: relative; left: 120px;"></div>
+							</section>
+						</article>
+						<article>
+							<label class="log-reg-title"><span class="ui-text-red">*</span>手机验证：</label>
+							<section>
+								<input type="text" name="mobilecode" class="t_input wb40" placeholder="请输入验证码" id="J_mobile_code">
+								<a href="javascript:;" class="log-reg-code" id="T-reg-mobile-code">获取验证码</a>
+								<div id="mobilecode" class="log-reg-form-msg"></div>
+							</section>
+						</article>
+						<article class="log-reg-box-last">
+							<section>
+								<label>
+									<input id="argeement_check" type="checkbox" class="check-input" checked>
+									<span class="ui-text-gray-2">同意<a href="http://www.stwstb.com/terms_conditions.html" target="_blank">《世投邦服务协议》</a></span>
+									<div id="J_argeement_check_info" class="log-reg-form-msg"></div>
+								</label>
+							</section>
+							<section class="fn-mt-10 fn-mb-20">
+								<input type="hidden" value="trj3" name="ver">
+	                            <input type="hidden" value="zjxmsms" name="method">
+	                            <input type="hidden" value="trjindex" name="w">
+	                            <input type="hidden" value="" name="invite">
+								<a href="###" class="ui-btn-big ui-btn-blue">立即注册</a>已有账号？<a href="/login.html">去登录</a>
+							</section>
+						</article>
+					</form>
+				</div>
+				<input id="forword_url" type="hidden" value=""/>
+				<div class="log-reg-aside-r">
+					<h6><i></i><span class="fn-vam">为什么选择世投邦</span></h6>
+					<p><span>30多万</span>&nbsp;真实投资人，<span>5万亿</span>&nbsp;资金</p>
+					<p><span>180多万</span>&nbsp;真实项目方会员</p>
+					<p>昨日&nbsp;<span>5762</span>&nbsp;次项目与资金约谈记录</p>
+					<h6><i></i>成功案例</h6>
+					<p>世投邦助力成都某手游科技公司<br />获得500万风投</p>
+					<p>世投邦牵线搭桥 某知名集团成功<br />融资6.6亿</p>
+					<h6><i></i>为什么选择世投邦</h6>
+					<ul class="known-investors">
+						<li><aside class="reg-portrait1"></aside><p>周全<br>IDG资本中国区总裁</p></li>
+						<li><aside class="reg-portrait2"></aside><p>杨向东<br />凯雷投资总经理</p></li>
+						<li><aside class="reg-portrait3"></aside><p>沈南鹏<br>红杉资本中国基金创始人</p></li>
+						<li><aside class="reg-portrait4"></aside><p>杨伟强<br>硅谷天堂总裁</p></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<script type="text/javascript" src="sea.js"></script>
+		<script>seajs.use("register_page")</script>
+
+		
+		<!--        以下内容为文档底部        -->
+    
+	<footer id="stb-footer" role="contentinfo">
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-3 stb-widget">
+					<h4>相关链接</h4>
+                    <li><a href="http://www.cvcri.com" target="_blank">中国风险投资研究院</a></li>
+                    <li><a href="#">投资界</a></li>
+                    <li><a href="#">投融界</a></li>
+					
+				</div>
+				<div class="col-md-3 col-md-push-1">
+					<h4>旗下公司</h4>
+					<ul class="stb-footer-links">
+						<li><a href="#">世投集团</a></li>
+						<li><a href="#">世投金服</a></li>
+						<li><a href="#">世投网</a></li>
+						<li><a href="#">世投商城</a></li>
+						<li><a href="#">民盛投资</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-3 col-md-push-1">
+					<h4>联系方式</h4>
+					<ul class="stb-footer-links">
+						<li>上海市浦东新区 <br> 耀华路215弄6号楼606</li>
+						<li><a href="tel://1234567920">+86 2355 98</a></li>
+						<li><a href="mailto:info@stwstb.com">info@msvc.cn</a></li>
+						<li><a href="#">stwstb.com</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-3 col-md-push-1">
+				  <h4>关注我们</h4>
+				  <ul class="stb-footer-links">
+					  <li><img src="images/erweima.jpg" alt="世投邦官方微信号" width="101" height="101" class="img-rounded img-responsive"/></li>
+					</ul>
+				</div>
+
+			</div>
+
+			<div class="row copyright">
+			  <div class="col-md-12 text-center">
+			    <p> <small class="block">&copy; 2016 版权所有 <a href="http://www.stwstb.com/" target="_blank" title="模板之家">世投邦</a> - 沪ICP备 <a href="http://www.beian.com/">备案</a></small> </p>
+			  </div>
+			</div>
+
+		</div>
+	</footer>
+	
+
+<div style="display:none;">
+<script type="text/javascript">
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?c0573ae297ae181de08c62139538357e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+<script> 
+(function(){
+  var _ps = ['?c=','&c=','rs=','trackid='];
+  for(var k in _ps)if(document.location.search.indexOf(_ps[k])>-1)return;
+    var bp = document.createElement('script'); 
+    var curProtocol = window.location.protocol.split(':')[0]; 
+    if (curProtocol === 'https'){ 
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js'; 
+  } 
+  else{ 
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js'; 
+  } 
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(bp, s); 
+})(); 
+</script>
+
+
+
+</div>	</div>
+</body>
+</html>

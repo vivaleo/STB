@@ -1,0 +1,639 @@
+.growl {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 1px 2px rgba(0, 0, 0, 0.05)
+}
+
+.growl h4 {
+    margin-top: 0;
+    color: inherit
+}
+
+.growl .close {
+    float: right;
+    font-family: "Arial";
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    opacity: .2
+}
+
+.growl .close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+    filter: alpha(opacity=50);
+    opacity: .5
+}
+
+.growl button.close {
+    -webkit-appearance: none;
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0
+}
+
+.growl .growl-link {
+    font-weight: bold
+}
+
+.growl>p,
+.growl>ul {
+    margin-bottom: 0
+}
+
+.growl>p+p {
+    margin-top: 5px
+}
+
+.growl-dismissable {
+    padding-right: 35px
+}
+
+.growl-dismissable .close {
+    position: relative;
+    top: -2px;
+    right: -21px;
+    color: inherit
+}
+
+.growl-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    background-image: -webkit-linear-gradient(top, #dff0d8 0, #c8e5bc 100%);
+    background-image: linear-gradient(to bottom, #dff0d8 0, #c8e5bc 100%);
+    background-repeat: repeat-x;
+    border-color: #b2dba1;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdff0d8', endColorstr='#ffc8e5bc', GradientType=0)
+}
+
+.growl-success hr {
+    border-top-color: #c9e2b3
+}
+
+.growl-success .growl-link {
+    color: #2b542c
+}
+
+.growl-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    background-image: -webkit-linear-gradient(top, #d9edf7 0, #b9def0 100%);
+    background-image: linear-gradient(to bottom, #d9edf7 0, #b9def0 100%);
+    background-repeat: repeat-x;
+    border-color: #9acfea;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9edf7', endColorstr='#ffb9def0', GradientType=0)
+}
+
+.growl-info hr {
+    border-top-color: #a6e1ec
+}
+
+.growl-info .growl-link {
+    color: #245269
+}
+
+.growl-warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    background-image: -webkit-linear-gradient(top, #fcf8e3 0, #f8efc0 100%);
+    background-image: linear-gradient(to bottom, #fcf8e3 0, #f8efc0 100%);
+    background-repeat: repeat-x;
+    border-color: #f5e79e;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffcf8e3', endColorstr='#fff8efc0', GradientType=0)
+}
+
+.growl-warning hr {
+    border-top-color: #f7e1b5
+}
+
+.growl-warning .growl-link {
+    color: #66512c
+}
+
+.growl-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    background-image: -webkit-linear-gradient(top, #f2dede 0, #e7c3c3 100%);
+    background-image: linear-gradient(to bottom, #f2dede 0, #e7c3c3 100%);
+    background-repeat: repeat-x;
+    border-color: #dca7a7;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff2dede', endColorstr='#ffe7c3c3', GradientType=0)
+}
+
+.growl-danger hr {
+    border-top-color: #e4b9c0
+}
+
+.growl-danger .growl-link {
+    color: #843534
+}
+
+.icon-auth-16-1-no,
+.icon-auth-16-1,
+.icon-auth-16-2-no,
+.icon-auth-16-2,
+.icon-auth-16-3-no,
+.icon-auth-16-3,
+.icon-auth-16-4-no,
+.icon-auth-16-4,
+.icon-auth-16-5-no,
+.icon-auth-16-5,
+.icon-auth-16-6-no,
+.icon-auth-16-6,
+.icon-auth-16-7-no,
+.icon-auth-16-7,
+.icon-auth-16-10-no,
+.icon-auth-16-10,
+.icon-auth-16-9-no,
+.icon-auth-16-9,
+.icon-auth-16-11-no,
+.icon-auth-16-11 {
+    width: 16px;
+    height: 16px;
+    background: url(../../src/images/icon-auth.png) no-repeat;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.icon-auth-16-1-no {
+    background-position: 0 -100px;
+}
+
+.icon-auth-16-1 {
+    background-position: 0 -138px;
+}
+
+.icon-auth-16-2-no {
+    background-position: 0 0;
+}
+
+.icon-auth-16-2 {
+    background-position: 0 -42px;
+}
+
+.icon-auth-16-3-no {
+    background-position: 0 -194px;
+}
+
+.icon-auth-16-3 {
+    background-position: 0 -236px;
+}
+
+.icon-auth-16-4-no {
+    background-position: 0 -615px;
+}
+
+.icon-auth-16-4 {
+    background-position: 0 -655px;
+}
+
+.icon-auth-16-5-no {
+    background-position: 0 -699px;
+}
+
+.icon-auth-16-5 {
+    background-position: 0 -741px;
+}
+
+.icon-auth-16-6-no {
+    background-position: 0 -280px;
+}
+
+.icon-auth-16-6 {
+    background-position: 0 -320px;
+}
+
+.icon-auth-16-7-no {
+    background-position: 0 -444px;
+}
+
+.icon-auth-16-7 {
+    background-position: 0 -484px;
+}
+
+.icon-auth-16-9-no {
+    background-position: 0 -361px;
+}
+
+.icon-auth-16-9 {
+    background-position: 0 -398px;
+}
+
+.icon-auth-16-10-no {
+    background-position: 0 -529px;
+}
+
+.icon-auth-16-10 {
+    background-position: 0 -569px;
+}
+
+.icon-auth-16-11-no {
+    background-position: 0 -866px;
+}
+
+.icon-auth-16-11 {
+    background-position: 0 -904px;
+}
+
+.icon-auth-24-1-no,
+.icon-auth-24-1,
+.icon-auth-24-2-no,
+.icon-auth-24-2,
+.icon-auth-24-3-no,
+.icon-auth-24-3,
+.icon-auth-24-4-no,
+.icon-auth-24-4,
+.icon-auth-24-5-no,
+.icon-auth-24-5,
+.icon-auth-24-6-no,
+.icon-auth-24-6,
+.icon-auth-24-7-no,
+.icon-auth-24-7,
+.icon-auth-24-10-no,
+.icon-auth-24-10,
+.icon-auth-24-9-no,
+.icon-auth-24-9,
+.icon-auth-24-11-no,
+.icon-auth-24-11 {
+    width: 24px;
+    height: 24px;
+    background: url(../../src/images/icon-auth.png) no-repeat;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.icon-auth-24-1-no {
+    background-position: -30px -100px;
+}
+
+.icon-auth-24-1 {
+    background-position: -30px -138px;
+}
+
+.icon-auth-24-2-no {
+    background-position: -30px 0;
+}
+
+.icon-auth-24-2 {
+    background-position: -30px -42px;
+}
+
+.icon-auth-24-3-no {
+    background-position: -30px -194px;
+}
+
+.icon-auth-24-3 {
+    background-position: -30px -236px;
+}
+
+.icon-auth-24-4-no {
+    background-position: -30px -615px;
+}
+
+.icon-auth-24-4 {
+    background-position: -30px -655px;
+}
+
+.icon-auth-24-5-no {
+    background-position: -30px -699px;
+}
+
+.icon-auth-24-5 {
+    background-position: -30px -741px;
+}
+
+.icon-auth-24-6-no {
+    background-position: -30px -280px;
+}
+
+.icon-auth-24-6 {
+    background-position: -30px -320px;
+}
+
+.icon-auth-24-7-no {
+    background-position: -30px -444px;
+}
+
+.icon-auth-24-7 {
+    background-position: -30px -484px;
+}
+
+.icon-auth-24-9-no {
+    background-position: -30px -361px;
+}
+
+.icon-auth-24-9 {
+    background-position: -30px -398px;
+}
+
+.icon-auth-24-10-no {
+    background-position: -30px -529px;
+}
+
+.icon-auth-24-10 {
+    background-position: -30px -569px;
+}
+
+.icon-auth-24-11-no {
+    background-position: -30px -866px;
+}
+
+.icon-auth-24-11 {
+    background-position: -30px -904px;
+}
+
+.icon-auth-32-1-no,
+.icon-auth-32-1,
+.icon-auth-32-2-no,
+.icon-auth-32-2,
+.icon-auth-32-3-no,
+.icon-auth-32-3,
+.icon-auth-32-4-no,
+.icon-auth-32-4,
+.icon-auth-32-5-no,
+.icon-auth-32-5,
+.icon-auth-32-6-no,
+.icon-auth-32-6,
+.icon-auth-32-7-no,
+.icon-auth-32-7,
+.icon-auth-32-10-no,
+.icon-auth-32-10,
+.icon-auth-32-9-no,
+.icon-auth-32-9,
+.icon-auth-32-11-no,
+.icon-auth-32-11 {
+    width: 32px;
+    height: 32px;
+    background: url(../../src/images/icon-auth.png) no-repeat;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.icon-auth-32-1-no {
+    background-position: -68px -100px;
+}
+
+.icon-auth-32-1 {
+    background-position: -68px -138px;
+}
+
+.icon-auth-32-2-no {
+    background-position: -68px 0;
+}
+
+.icon-auth-32-2 {
+    background-position: -68px -42px;
+}
+
+.icon-auth-32-3-no {
+    background-position: -68px -194px;
+}
+
+.icon-auth-32-3 {
+    background-position: -68px -236px;
+}
+
+.icon-auth-32-4-no {
+    background-position: -68px -615px;
+}
+
+.icon-auth-32-4 {
+    background-position: -68px -655px;
+}
+
+.icon-auth-32-5-no {
+    background-position: -68px -699px;
+}
+
+.icon-auth-32-5 {
+    background-position: -68px -741px;
+}
+
+.icon-auth-32-6-no {
+    background-position: -68px -280px;
+}
+
+.icon-auth-32-6 {
+    background-position: -68px -320px;
+}
+
+.icon-auth-32-7-no {
+    background-position: -68px -444px;
+}
+
+.icon-auth-32-7 {
+    background-position: -68px -484px;
+}
+
+.icon-auth-32-9-no {
+    background-position: -68px -361px;
+}
+
+.icon-auth-32-9 {
+    background-position: -68px -398px;
+}
+
+.icon-auth-32-10-no {
+    background-position: -68px -529px;
+}
+
+.icon-auth-32-10 {
+    background-position: -68px -569px;
+}
+
+.icon-auth-32-11-no {
+    background-position: -68px -866px;
+}
+
+.icon-auth-32-11 {
+    background-position: -68px -904px;
+}
+
+.icon-auth-p-16-1,
+.icon-auth-p-16-2,
+.icon-auth-p-16-4,
+.icon-auth-p-16-5,
+.icon-auth-s-16-1,
+.icon-auth-s-16-2,
+.icon-auth-s-16-3 {
+    width: 16px;
+    height: 16px;
+    background: url(../../src/images/icon-auth2.png) no-repeat;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.icon-auth-p-16-1 {
+    background-position: 0 -1px;
+}
+
+.icon-auth-p-16-2 {
+    background-position: 0 -81px;
+}
+
+.icon-auth-p-16-4 {
+    background-position: 0 -161px;
+}
+
+.icon-auth-p-16-5 {
+    background-position: 0 -236px;
+}
+
+.icon-auth-s-16-1 {
+    background-position: 0 -316px;
+}
+
+.icon-auth-s-16-2 {
+    background-position: 0 -396px;
+}
+
+.icon-auth-s-16-3 {
+    background-position: 0 -476px;
+}
+
+.icon-auth-p-24-1,
+.icon-auth-p-24-2,
+.icon-auth-p-24-4,
+.icon-auth-p-24-5,
+.icon-auth-s-24-1,
+.icon-auth-s-24-2,
+.icon-auth-s-24-3 {
+    width: 24px;
+    height: 24px;
+    background: url(../../src/images/icon-auth2.png) no-repeat;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.icon-auth-p-24-1 {
+    background-position: -48px -1px;
+}
+
+.icon-auth-p-24-2 {
+    background-position: -48px -81px;
+}
+
+.icon-auth-p-24-4 {
+    background-position: -48px -161px;
+}
+
+.icon-auth-p-24-5 {
+    background-position: -48px -236px;
+}
+
+.icon-auth-s-24-1 {
+    background-position: -48px -316px;
+}
+
+.icon-auth-s-24-2 {
+    background-position: -48px -396px;
+}
+
+.icon-auth-s-24-3 {
+    background-position: -48px -476px;
+}
+
+.icon-auth-p-32-1,
+.icon-auth-p-32-2,
+.icon-auth-p-32-4,
+.icon-auth-p-32-5,
+.icon-auth-s-32-1,
+.icon-auth-s-32-2,
+.icon-auth-s-32-3 {
+    width: 32px;
+    height: 32px;
+    background: url(../../src/images/icon-auth2.png) no-repeat;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.icon-auth-p-32-1 {
+    background-position: -108px -1px;
+}
+
+.icon-auth-p-32-2 {
+    background-position: -108px -81px;
+}
+
+.icon-auth-p-32-4 {
+    background-position: -108px -161px;
+}
+
+.icon-auth-p-32-5 {
+    background-position: -108px -236px;
+}
+
+.icon-auth-s-32-1 {
+    background-position: -108px -316px;
+}
+
+.icon-auth-s-32-2 {
+    background-position: -108px -396px;
+}
+
+.icon-auth-s-32-3 {
+    background-position: -108px -476px;
+}
+
+.icon-auth-p-48-1,
+.icon-auth-p-48-2,
+.icon-auth-p-48-4,
+.icon-auth-p-48-5,
+.icon-auth-s-48-1,
+.icon-auth-s-48-2,
+.icon-auth-s-48-3 {
+    width: 48px;
+    height: 48px;
+    background: url(../../src/images/icon-auth2.png) no-repeat;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.icon-auth-p-48-1 {
+    background-position: -178px -1px;
+}
+
+.icon-auth-p-48-2 {
+    background-position: -178px -81px;
+}
+
+.icon-auth-p-48-4 {
+    background-position: -178px -161px;
+}
+
+.icon-auth-p-48-5 {
+    background-position: -178px -236px;
+}
+
+.icon-auth-s-48-1 {
+    background-position: -178px -316px;
+}
+
+.icon-auth-s-48-2 {
+    background-position: -178px -396px;
+}
+
+.icon-auth-s-48-3 {
+    background-position: -178px -476px;
+}

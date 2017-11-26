@@ -1,0 +1,1890 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>世投邦——IPO上市服务</title>
+
+<!-- Bootstrap -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link rel="stylesheet" href="css/bootstrap-tab.css">
+<link rel="stylesheet" href="css/animate.css" >
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/owl.theme.css">
+<link rel="stylesheet" href="css/style.css" >
+<link rel="stylesheet" href="css/material-bootstrap-wizard.css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid" style="background-color: #FFFFFF">
+        <div class="navbar-header">
+            <a href="index.html" class=""><img src="images/logofirst.png" alt="世投邦品牌图标" class="img-responsive">
+            </a>
+        </div>
+        <div class="navbar-right">
+        	<a>
+        		世投服务
+        	</a>
+        	<a>
+        		机构入住
+        	</a>
+        </div>
+    </div>
+  <div class="container-fluid"> 
+<!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#defaultNavbar1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">全部导航</a>
+        </div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="defaultNavbar1">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">找资金</a>
+					
+						<ul class="dropdown-menu mega-menu">
+    
+						     <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>投资偏好领域</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">互联网</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">房地产</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">汽车</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">能源及矿产</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">连锁及零售</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">广播电视</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">教育与培训</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">机械制造</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">建筑与工程</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">化工原料</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">纺织及服装</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">光电设备</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">农林牧渔</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">清洁技术</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">金融</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">广播电视</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">娱乐传媒</a></li>
+						    </ul>
+						    </li> 
+						    
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>投资偏好地域</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">北京</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">上海</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">天津</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">重庆</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">安徽</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">福建</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">甘肃</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">广东</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">广西</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">贵州</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">海南</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">湖北</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">湖南</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">吉林</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">江苏</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">江西</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">辽宁</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">内蒙古</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">宁夏</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">青海</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">山东</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">山西</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">陕西</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">四川</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">黑龙江</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">西藏</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">新疆</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">云南</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">浙江</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">香港</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">澳门</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">台湾</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">北美</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">欧洲</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">亚洲</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">南美</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">非洲</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">澳洲</a></li>
+						    </ul>
+						    </li>
+						    
+						    <li class="mega-menu-column">
+						    <ul class="">
+						        <li class="nav-header text-center"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>投资偏好阶段</li>
+						       <li><img src="http://placehold.it/150x120"></li>
+								<li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a class="" href="#">行业项目</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">初创期</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">扩张期</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">成熟期</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">PIPE</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">政府民生</a></li>
+						    </ul>
+						    </li>    
+        
+						    <li class="mega-menu-column">
+						    <ul>
+						    <li class="page-header text-center"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>资金来源标签</li>
+								<img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">VC</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">FOF</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">天使投资人</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">券商直投</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">VC、PE</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">战略投资者</a></li>
+						    </ul>
+						    </li> 
+
+						     
+						    
+							
+				  </ul><!-- dropdown-menu -->
+						
+                </li>
+                
+              <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">选项目</a>
+                   
+                    <ul class="dropdown-menu mega-menu">
+    
+						    <li class="mega-menu-column">
+						    <ul>
+						        <li class="nav-header">按行业划分</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-home" aria-hidden="true"></span><a href="#">地产</a></li>
+						        <li><span class="glyphicon glyphicon-yen" aria-hidden="true"></span><a href="#">金融</a></li>
+						        <li><span class="glyphicon glyphicon-fire" aria-hidden="true"></span><a href="#">能源</a></li>
+						        <li><span class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="#">科技</a></li>
+						        <li><span class="glyphicon glyphicon-grain" aria-hidden="true"></span><a href="#">农业</a></li>
+						        <li><span class="glyphicon glyphicon-education" aria-hidden="true"></span><a href="#">教育</a></li>
+					          <li><span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span><a href="#">医疗</a></li>
+						        <li><span class="glyphicon glyphicon-book" aria-hidden="true"></span><a href="#">文化</a></li>
+						        <li><span class="glyphicon glyphicon-bed" aria-hidden="true"></span><a href="#">汽车</a></li>
+						        <li><span class="glyphicon glyphicon-road" aria-hidden="true"></span><a href="#">物流</a></li>
+					          <li><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span><a href="#">日用品</a></li>
+						        <li><span class="glyphicon glyphicon-transfer" aria-hidden="true"></span><a href="#">进出口</a></li>
+						    </ul>
+						    </li>    
+        
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>按投资地域划分</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">北京</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">上海</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">天津</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">重庆</a></li>
+								<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">安徽</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">福建</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">甘肃</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">广东</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">广西</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">贵州</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">海南</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">湖北</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">湖南</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">吉林</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">江苏</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">江西</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">辽宁</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">内蒙古</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">宁夏</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">青海</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">山东</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">山西</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">陕西</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">四川</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">黑龙江</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">西藏</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">新疆</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">云南</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">浙江</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">香港</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">澳门</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">台湾</a></li>
+					          <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">北美</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">欧洲</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">亚洲</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">南美</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">非洲</a></li>
+						        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="#">澳洲</a></li>
+						    </ul>
+						    </li> 
+
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header">按融资金额划分</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphhicon glyphicon-yen" aria-hidden="true"></span><a href="#">10万以下</a></li>
+						        <li><span class="glyphhicon glyphicon-yen" aria-hidden="true"></span><a href="#">10万-50万</a></li>
+						        <li><span class="glyphhicon glyphicon-yen" aria-hidden="true"></span><a href="#">50万-100万</a></li>
+						        <li><span class="glyphhicon glyphicon-yen" aria-hidden="true"></span><a href="#">100万-500万</a></li>
+						        <li><span class="glyphhicon glyphicon-yen" aria-hidden="true"></span><a href="#">500万-1000万</a></li>
+						        <li><span class="glyphhicon glyphicon-yen" aria-hidden="true"></span><a href="#">1000万-5000万</a></li>
+						        <li><span class="glyphhicon glyphicon-yen" aria-hidden="true"></span><a href="#">5000万-1亿</a></li>
+						        <li><span class="glyphhicon glyphicon-yen" aria-hidden="true"></span><a href="#">1亿以上</a></li>
+						    </ul>
+						    </li> 
+							
+						</ul><!-- dropdown-menu -->
+                </li>
+                
+              <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"> 知名投资机构</a> 
+                
+                    <ul class="dropdown-menu mega-menu">
+    
+						     <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">互联网</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">阿里巴巴集团</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">深圳市腾讯计算机系统有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">库拉诺信息技术有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京新安财富创业投资有限责任公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">大唐投资管理（北京）有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">东方元鼎（北京）投资咨询有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京中海创业投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京华尔创新投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">思伟投资</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">汉能投资集团</a></li>
+						    </ul>
+						    </li> 
+						    
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">房地产</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">力天融金投资有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">上海张江高科技园区开发股份有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">盛世神州房地产投资基金管理（北京）有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京盛诺金投资基金管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">湖北联投集团</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京普思投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">盛诺金资产管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">信报（天津）股权投资基金管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">悦榕资本有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">上海智盈股权投资管理有限公司</a></li>
+						    </ul>
+						    </li> 
+						    
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">建筑与工程</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">开信创业投资管理（北京）有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">美国泰山投资亚洲控股有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">美国青锋投资有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">招商昆仑股权投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">长沙先导创业投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京盛世景投资管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">通用技术集团投资管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">江苏威豪创业投资管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">渤海产业投资基金管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">汉能投资集团北京市国有资产经营有限责任公司</a></li>
+						    </ul>
+						    </li> 
+						    
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">能源及矿产</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">江苏苏美达集团有限公司</a></li>
+								<li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">北京华汇通创业投资管理有限公司</a></li>
+								<li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">北京雷石投资顾问有限公司</a></li>
+								<li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">北京昆仑星河投资管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">国家开发投资公司</a></li>
+						        <li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">美国博龙集团公司</a></li>
+						        <li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">联合运通投资（控股）有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">中信证券国际有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">北京汇泉国际投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-start" aria-hidden="true"></span><a href="#">黑龙江辰能哈工大高科技风险投资有限公司</a></li>
+						    </ul>
+						    </li> 
+						    
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">化工原料</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">君盛投资管理有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">新加坡经济发展局投资私人有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">高达资本集团</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">创佳资本管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">联合运通投资（控股）有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">成都创新风险投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">安徽省科技产业投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">上海磐石投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">杭州立元创业投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">国家开发投资公司</a></li>
+						    </ul>
+						    </li> 
+						    
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">金融</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">民盛（上海）投资有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">美国硅谷 500IPO</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">软银赛富投资顾问有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">浙江省经济建设投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">青阳天使投资基金</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京科技风险投资股份有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">Gabriel Venture</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">中非发展基金有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京立达投资基金管理中心</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">德丰杰龙脉（上海）股权投资管理有限公司</a></li>
+						    </ul>
+						    </li> 
+						    
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">教育与培训</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">荣勤国际</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">量宇私募股权投资基金</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京浩然资本投资有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京正润创业投资有限责任公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">华夏世纪创业投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">红杉资本</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">IDG资本投资顾问（北京）有限公司</a></li>
+						    </ul>
+						    </li> 
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">机械制造</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">联创策源投资咨询有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">盛景投资管理集团</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">清科创投集团</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">旷世开融</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">航天科工资产管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">博信资产</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京中关村创业投资发展有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">航天投资控股有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">国投创新投资管理</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">韩国诚达国际投资有限公司</a></li>
+						    </ul>
+						    </li> 
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">汽车</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">高能资本有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">鼎晖创业投资</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">中国银河投资管理有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">君联资本</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">硅谷天堂资产管理集团股份有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">通用（北京）投资基金管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">德丰杰</a></li>
+						    </ul>
+						    </li> 
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">农林牧渔</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">创新工场</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">融银资本投资管理有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京青云创业投资管理有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京惠农资本管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">明石投资管理（北京）有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">福建劲达创业投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">重庆麒厚西海股权投资管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">中农高科（北京）科技产业投资管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">英国天向集团有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">中粮农业产业基金管理有限责任公司</a></li>
+						    </ul>
+						    </li> 
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">娱乐传媒</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">盈富泰克创业投资有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">启迪创业投资管理有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京科桥投资顾问有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">中科招商集团</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">经纬中国</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">深圳市基石创业投资管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">凯旋创投</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">和君资本</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京博观创业投资管理顾问有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">金石投资有限公司</a></li>
+						    </ul>
+						    </li> 
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header text-center">其它</li>
+						        <img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#"></a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">中国科招高技术有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">联想之星</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京裕润立达股权投资管理有限公司</a></li>
+								<li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">法国芦荟私募股权基金管理公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">大唐投资管理（北京）有限公司中国私募基金控股集团</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">北京首创科技投资有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">曼达林基金</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">上海财通资产管理有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">渤海国际信托有限公司</a></li>
+						        <li><span class="glyphicon glyphicon-star" aria-hidden="true"></span><a href="#">中江国际信托股份有限公司</a></li>
+						    </ul>
+						    </li> 
+						    
+						    
+						    <li class="mega-menu-column">
+						    <ul class="">
+						        <li class="nav-header text-center">投资阶段</li>
+						       <li><img src="http://placehold.it/150x120"></li>
+								<li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a class="" href="#">行业项目</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">初创期</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">扩张期</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">成熟期</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">PIPE</a></li>
+						        <li class=""><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span><a href="#">政府民生</a></li>
+						    </ul>
+						    </li>    
+        
+						    <li class="mega-menu-column">
+						    <ul>
+						    <li class="page-header text-center"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>资金标签</li>
+								<img src="http://placehold.it/150x120">
+								<li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">VC</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">FOF</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">天使投资人</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">券商直投</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">VC、PE</a></li>
+						        <li><span class="glyphicon glyphicon-jpy" aria-hidden="true"></span><a href="#">战略投资者</a></li>
+						    </ul>
+						    </li> 
+
+						     
+						    
+							
+						</ul><!-- dropdown-menu -->
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">知名投资人</a>
+                
+                    <ul class="dropdown-menu mega-menu">
+    
+						    <li class="mega-menu-column">
+						    <ul>
+						        <li class="nav-header">行业项目</li>
+						        <img src="http://placehold.it/150x120">
+								      <li><a href="#">行业项目</a></li>
+						        <li><a href="#">工程项目</a></li>
+						        <li><a href="#">高新产业</a></li>
+						        <li><a href="#">大健康</a></li>
+						        <li><a href="#">传统实业</a></li>
+						        <li><a href="#">政府民生</a></li>
+						    </ul>
+						    </li>    
+        
+						    <li class="mega-menu-column">
+						    <ul>
+						    <li class="nav-header">地区项目</li>
+								<img src="http://placehold.it/150x120">
+								<li><a href="#">江西项目</a></li>
+						        <li><a href="#">广西项目</a></li>
+						        <li><a href="#">广东项目</a></li>
+						        <li><a href="#">江苏项目</a></li>
+						        <li><a href="#">上海项目</a></li>
+						        <li><a href="#">重庆项目</a></li>
+						    </ul>
+						    </li> 
+
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header">Mega menu 3</li>
+						        <img src="http://placehold.it/150x120">
+								<li><a href="#">Mega-menu link</a></li>
+						        <li><a href="#">Mega-menu link</a></li>
+						        <li><a href="#">Mega-menu link</a></li>
+						        <li><a href="#">Mega-menu link</a></li>
+						        <li><a href="#">Mega-menu link</a></li>
+						        <li><a href="#">Mega-menu link</a></li>
+						    </ul>
+						    </li> 
+							
+						</ul><!-- dropdown-menu -->
+                </li>   
+                
+                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">世投服务</a>
+                   
+                    <ul class="dropdown-menu mega-menu">
+    
+						    <li class="mega-menu-column">
+						    <ul>
+						        <li class="nav-header">上市</li>
+						        <img src="http://placehold.it/150x120">
+								      <li><a href="#">行业项目</a></li>
+						        <li><a href="#">工程项目</a></li>
+						        
+						    </ul>
+						    </li>    
+        
+						    <li class="mega-menu-column">
+						    <ul>
+						    <li class="nav-header">法律服务</li>
+								<img src="http://placehold.it/150x120">
+								
+						    </ul>
+						    </li> 
+
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header">投融资</li>
+						        <img src="http://placehold.it/150x120">
+								
+						    </ul>
+						    </li> 
+						    
+						    <li class="mega-menu-column">
+						    <ul>                            
+						    <li class="nav-header">帮助企业获取政府补贴</li>
+						        <img src="http://placehold.it/150x120">
+								
+						    </ul>
+						    </li> 
+							
+				  </ul><!-- dropdown-menu -->
+                </li> 
+               
+      </ul>
+      <form class="navbar-form navbar-right" role="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Search">
+                </div>
+        <button type="submit" class="btn btn-default">搜索</button>
+      </form>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#login-modal" data-toggle="modal" target="#login-modal">登录</a></li>
+                <li><a href="#register-modal" data-toggle="modal" target="register-modal">注册</a></li>
+            </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+<div class="submenu"  style="display: none">
+  <ul class="list-group">顶顶顶顶
+    <li class="list-group-item"><a>Default List Group item </a></li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+  </ul>
+  <ul class="list-group">顶顶顶顶
+    <li class="list-group-item"><a>Default List Group item </a></li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+  </ul>
+  <ul class="list-group">顶顶顶顶
+    <li class="list-group-item"><a>Default List Group item </a></li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+  </ul>
+  <ul class="list-group">顶顶顶顶
+    <li class="list-group-item"><a>Default List Group item </a></li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+    <li class="list-group-item"><span class="badge">New</span><a>List Group item 1 with badge</a> </li>
+  </ul>
+</div>
+<!--        导航组件结束        -->
+
+<!--        登录功能开始        -->
+
+
+      
+<div class="modal fade" id="login-modal" tab-index="-1" data-backdrop="false">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+		    <div class="modal-header">
+		        <button class="close" data-dismiss="modal">&times;</button>
+		    	<h4>用户登录</h4>
+		    </div>
+			<div class="modal-body">
+				<form role="form" class="form-signin" name="form1" method="post" action="login/checklogin.php">
+        <h2 class="form-signin-heading">请登录</h2>
+        <div class="form-group">
+        <label for="myusername">用户名</label>
+        <input name="myusername" id="myusername" type="text" class="form-control" placeholder="输入用户名或手机号" autofocus>
+        </div>
+        
+        <div class="form-group">
+        <label for="mypassword">密码</label>
+        <input name="mypassword" id="mypassword" type="password" class="form-control" placeholder="输入密码">
+        </div>
+        
+        <!-- The checkbox remember me is not implemented yet...
+        <label class="checkbox">
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+        -->
+        <button name="Submit" id="submit" class="btn btn-lg btn-primary btn-block" type="submit">登录</button>
+	    <a href="signup.php" name="Sign Up" id="signup" class="btn btn-lg btn-primary btn-block" type="submit">创建新的账户</a>
+
+        <div id="message"></div>
+      </form>
+			</div>
+			<div class="modal-footer">
+				<button class="btn btn-primary">提示</button>
+			</div>
+		</div>
+	</div>
+</div>     
+
+ <div class="modal fade" id="register-modal" tab-index="-1" data-backdrop="false">  
+   <div class="modal-dialog modal-lg">
+		<div class="modal-content">
+		    <div class="modal-header">
+		        <button class="close" data-dismiss="modal">&times;</button>
+		    	<h4>用户注册</h4>
+		    </div>
+			<div class="modal-body">   
+    <form id="example-advanced-form" action="#">
+    <h3>创建您的用户账号</h3>
+    <fieldset>
+        <legend>账户基本信息</legend>
+ 
+        <label for="userName-2">用户名 *</label>
+        <input id="userName-2" name="userName" type="text" class="required">
+        <label for="password-2">密码 *</label>
+        <input id="password-2" name="password" type="text" class="required">
+        <label for="confirm-2">确认密码 *</label>
+        <input id="confirm-2" name="confirm" type="text" class="required">
+        <p>(*) 带星号的为必填项目</p>
+    </fieldset>
+ 
+    <h3>进一步设置账户的相关信息</h3>
+    <fieldset>
+        <legend>账户详细信息</legend>
+ 
+        <label for="name-2">名字 *</label>
+        <input id="name-2" name="name" type="text" class="required">
+        <label for="surname-2">姓氏 *</label>
+        <input id="surname-2" name="surname" type="text" class="required">
+        <label for="email-2">电子邮件地址 *</label>
+        <input id="email-2" name="email" type="text" class="required email">
+        <label for="address-2">居住地址</label>
+        <input id="address-2" name="address" type="text">
+        <label for="age-2">年龄 (The warning step will show up if age is less than 18) *</label>
+        <input id="age-2" name="age" type="text" class="required number">
+        <p>(*) 带星号的为必填项目</p>
+    </fieldset>
+ 
+    <h3>警告</h3>
+    <fieldset>
+        <legend>您不满十八岁</legend>
+ 
+        <p>暂不能注册账号</p>
+    </fieldset>
+ 
+    <h3>完成</h3>
+    <fieldset>
+        <legend>许可条款</legend>
+ 
+        <input id="acceptTerms-2" name="acceptTerms" type="checkbox" class="required"> <label for="acceptTerms-2">我同意许可条款</label>
+    </fieldset>
+</form>
+ </div>
+			<div class="modal-footer">
+				<button class="btn btn-primary">提示</button>
+			</div>
+		</div>
+	</div>
+      
+</div> <!-- /container -->
+<!--        登录功能结束        -->
+
+
+    
+    
+    
+    
+    
+    <div class="container">
+          <ul class="nav">
+           <li><a href="ipo.html" target="_self">IPO条件细节</a></li>
+           <li><a href="ipo01.html" target="_self">IPO上市流程</a></li>
+           <li><a href="ipo02.html" target="_self">咨询内涵价值</a></li>
+           <li><a href="ipo03.html" target="_self">细分市场研究</a></li>
+           <li><a href="ipo04.html" target="_self">可行性分析</a></li>
+           <li><a href="ipo05.html" target="_self">尽职调查服务</a></li>
+          </ul>
+           <ul>
+            <li><a href="ipo06.html" target="_self">IPO服务项目</a></li>
+            <li><a href="ipo07.html" target="_self">咨询服务流程</a></li>
+            <li><a href="ipo08.html" target="_self">项目执行流程</a></li>
+            <li><a href="ipo09.html" target="_self">配合工作原则</a></li>
+            <li><a href="media01.html" target="_self">大量成功案例</a></li> 
+            <li><a href="http://www.chinairn.com/yjbg/" target="_self">研究报告</a></li>
+          </ul>
+       </div>
+    
+    
+    
+    
+    
+    
+    
+     <ul class="navbar-static-top">
+         <li><a href="ipo.html">IPO条件细节</a></li>
+         <li><a href="ipo01.html">IPO上市流程</a></li>
+          <li><a href="ipo02.html">咨询内涵价值</a></li>
+           <li><a href="ipo03.html">细分市场研究</a></li>
+            <li><a href="ipo04.html">可行性分析</a></li>
+             <li><a href="ipo05.html">尽职调查服务</a></li>
+              <li  class="on"><a href="ipo06.html">IPO服务项目</a></li>
+                <li><a href="ipo07.html">咨询服务流程</a></li>
+                  <li><a href="ipo08.html">项目执行流程</a></li>
+                    <li><a href="ipo09.html">配合工作原则</a></li>
+                      <li><a href="media01.html">大量成功案例</a></li> 
+                        <li><a href="http://www.chinairn.com/yjbg/">更多研究报告</a></li>
+       </ul>
+  <div class="container">
+      <div class="row">
+          <div>
+          
+          
+          
+           <div class="page-haeder">
+              <h2 class="h2">IPO的意义</h2>
+          </div>
+          <div>
+              <p>
+              
+              IPO就是InitialPublicOfferings(首次公开发行股票）。首次公开招股是指一家企业（发行人）第一次将它的股份向公众出售。通常，上市公司的股份是根据向相应证券会出具的招股书或登记声明中约定的条款通过经纪商或做市商进行销售。一般来说，一旦首次公开上市完成后，这家公司就可以申请到证券交易所或报价系统挂牌交易。
+              
+              </p>
+          </div>
+　　
+　　 
+　<div>
+　    <h4>※ 优点</h4>
+　</div>　
+　　 <ol>
+　　     <li>1. 实现资产证券化，企业价值和股东价值放大</li>
+　　     <li>2. 股权融资平台</li>
+　　     <li>3. 提高债务融资的能力</li>
+　　     <li>4. 品牌、知名度提升</li>
+　　     <li>5. 促进市场发展</li>
+　　     <li>6. 促进企业规范运作</li>
+　　     <li>7. 有利于吸引优势人才</li>
+　　 </ol>
+　　
+　　
+　　
+　　
+　　
+　　
+　　	
+
+　　<div class="panel panel-default">
+       <div class="panel-heading">
+           <h4 class="h4">※ 缺点</h4>
+       </div>
+       <div class="panel-group">
+          <ol>
+           <li>8. 政府监管严格</li>
+           <li>9. 信息透明公开要求=经营者压力增大</li>
+           <li>10. 股权稀释，甚至可能丧失控股权</li>
+          </ol>
+       </div>
+       
+      
+      
+   </div>
+　　
+　　
+　　
+　　
+　　 
+　　 ※ 总结
+　　 
+　　1. 上市的优点较多，但不利方面也很突出，总体上优点要远大于缺点
+　　2. 对于希望放大企业及股东价值、希望融资扩张、借助证券市提升企业实力的企业来说，上市是实现这三个目标的最佳途径
+　　3. 对于实力很强、资金充裕的企业，依控制人的意愿和发展期望，不一定会选择上市 
+
+企业IPO上市咨询
+主板、中小企业板IPO条件
+　　※ 中国主板或中小板市场IPO必须满足如下财务条件：
+　　 
+　　※ 最近3个会计年度净利润均为正数且累计超过人民币3000万元。
+　　 
+　　※ 最近3个会计年度经营活动产生的现金流量净额累计超过人民币5000万元；或者最近3个会计年度营业收入累计超过人民币3亿元。
+　　 
+　　※ 发行前股本总额不少于人民币3000万元。
+　　 
+　　※ 最近一期末无形资产占净资产的比例不高于20%。
+　　 
+　　※ 最近一期末不存在未弥补亏损。 
+
+　　中国主板、中小板市场IPO财务条件
+
+　　 最近3个会计年度净利润均为正数且累计超过人民币3000万元。
+　　 最近3个会计年度经营活动产生的现金流量净额累计超过人民币5000万元；或者最近3个会计年度营业收入累计超过人民币3亿元。
+　　 发行前股本总额不少于人民币3000万元。
+　　 最近一期末无形资产占净资产的比例不高于20%。
+　　 最近一期末不存在未弥补亏损。
+创业板IPO条件
+　　※ 中国创业板市场IPO必须满足如下财务条件：
+　　 
+　　※ 最近2个会计年度净利润均为正数且累计超过人民币1000万元，且持续增长。或者最近一年盈利且净利润不少于500万元，收入不少于5000万元，营收增长不低于30%。
+　　 
+　　※ 发行后股本总额不少于人民币3000万元。
+　　 
+　　※ 最近一期末净资产不少于2000万元，且不存在未弥补亏损。
+
+　　中国创业板市场IPO财务条件
+
+　　最近2个会计年度净利润均为正数且累计超过人民币1000万元，且持续增长。或者最近一年盈利且净利润不少于500万元，收入不少于5000万元，营收增长不低于30%。
+　　 发行后股本总额不少于人民币3000万元。
+　　 最近一期末净资产不少于2000万元，且不存在未弥补亏损。
+
+　　※ 发行人是依法设立且持续经营三年以上的股份有限公司。
+　　 
+　　※ 有限责任公司按原账面净资产值折股整体变更为股份有限公司的，持续经营时间可以从有限责任公司成立之日起计算。
+　　 
+　　※ 注册资本已足额缴纳，发起人或者股东用作出资的资产的财产权转移手续已办理完毕。发行人的主要资产不存在重大权属纠纷。
+　　 
+　　※ 应当主要经营一种业务，其生产经营活动符合法律、行政法规和公司章程的规定，符合国家产业政策及环境保护政策。
+　　 
+　　※ 最近两年内主营业务和董事、高级管理人员均没有发生重大变化，实际控制人没有发生变更。
+　　 
+　　※ 发行人应当具有持续盈利能力，不存在下列情形：
+　　 
+　　1. 发行人的经营模式、产品或服务的品种结构已经或者将发生重大变化，并对发行人的持续盈利能力构成重大不利影响；
+　　 
+　　2. 发行人的行业地位或发行人所处行业的经营环境已经或者将发生重大变化，并对发行人的持续盈利能力构成重大不利影响；
+　　 
+　　3. 发行人在用的商标、专利、专有技术、特许经营权等重要资产或者技术的取得或者使用存在重大不利变化的风险；
+　　 
+　　4. 发行人最近一年的营业收入或净利润对关联方或者有重大不确定性的客户存在重大依赖；
+　　 
+　　5. 发行人最近一年的净利润主要来自合并财务报表范围以外的投资收益；
+　　 
+　　6. 其他可能对发行人持续盈利能力构成重大不利影响的情形。
+　　 
+　　※ 发行人依法纳税，享受的各项税收优惠符合相关法律法规的规定。发行人的经营成果对税收优惠不存在严重依赖。
+　　 
+　　※ 发行人不存在重大偿债风险，不存在影响持续经营的担保、诉讼以及仲裁等重大或有事项。
+　　
+　　 ※ 发行人的股权清晰，控股股东和受控股股东、实际控制人支配的股东所持发行人的股份不存在重大权属纠纷。
+　　 
+　　※ 发行人资产完整，业务及人员、财务、机构独立，具有完整的业务体系和直接面向市场独立经营的能力。与控股股东、实际控制人及其控制的其他企业间不存在同业竞争，以及严重影响公司独立性或者显失公允的关联交易。
+　　 
+　　※ 发行人具有完善的公司治理结构，依法建立健全股东大会、董事会、监事会以及独立董事、董事会秘书、审计委员会制度，相关机构和人员能够依法履行职责。
+　　 
+　　※ 发行人会计基础工作规范，财务报表的编制符合企业会计准则和相关会计制度的规定，在所有重大方面公允地反映了发行人的财务状况、经营成果和现金流量，并由注册会计师出具无保留意见的审计报告。
+　　 
+　　※ 发行人内部控制制度健全且被有效执行，能够合理保证公司财务报告的可靠性、生产经营的合法性、营运的效率与效果，并由注册会计师出具无保留结论的内部控制鉴证报告。
+　　 
+　　※ 发行人具有严格的资金管理制度，不存在资金被控股股东、实际控制人及其控制的其他企业以借款、代偿债务、代垫款项或者其他方式占用的情形。
+　　 
+　　※ 发行人的公司章程已明确对外担保的审批权限和审议程序，不存在为控股股东、实际控制人及其控制的其他企业进行违规担保的情形。
+　　 
+　　※ 发行人的董事、监事和高级管理人员了解股票发行上市相关法律法规，知悉上市公司及其董事、监事和高级管理人员的法定义务和责任。
+　　 
+　　※ 发行人的董事、监事和高级管理人员应当忠实、勤勉，具备法律、行政法规和规章规定的资格，且不存在下列情形：
+　　 
+　　1. 被中国证监会采取证券市场禁入措施尚在禁入期的；
+　　 
+　　2. 最近三年内受到中国证监会行政处罚，或者最近一年内受到证券交易所公开谴责的；
+　　 
+　　3. 因涉嫌犯罪被司法机关立案侦查或者涉嫌违法违规被中国证监会立案调查，尚未有明确结论意见的。
+　　 
+　　※ 发行人及其控股股东、实际控制人最近三年内不存在损害投资者合法权益和社会公共利益的重大违法行为。
+　　 
+　　※ 发行人及其控股股东、实际控制人最近三年内不存在未经法定机关核准，擅自公开或者变相公开发行证券，或者有关违法行为虽然发生在三年前，但目前仍处于持续状态的情形。
+　　 
+　　※ 发行人募集资金应当用于主营业务，并有明确的用途。募集资金数额和投资项目应当与发行人现有生产经营规模、财务状况、技术水平和管理能力等相适应。
+　　 
+　　※ 发行人应当建立募集资金专项存储制度，募集资金应当存放于董事会决定的专项账户。
+境内IPO需要注意的细节
+　　※ 国有资产转让应有资管部门文件确认
+　　 
+　　上会材料中的公司历史沿革问题是证监会关注的重点。证监会要求保荐机构主要从股权是否存在瑕疵、是否涉嫌国有资产流失等方面调查。根据《首次公开发行股票上市管理办法》第十三条规定，发行人的股权清晰，控股股东和受控股股东、实际控制人支配的股东持有发行人股份不存在重大权属纠纷。事实上，保荐机构的职责不应只是去发现问题，更应该调查问题的前因后果。因此，监管部门要求保荐机构，在发现发行人历史上存在国有资产转让或集体资产转让问题时，应该及时由相关资产管理部门出具有针对性的文件进行确认，且在招股书中应详细披露出文单位、文号、出文内容等。
+　　 
+　　※ IPO前6个月受让股份须锁定3年
+　　 
+　　深交所创业板股票上市规则规定，发行人的控股股东、实际控制人所持股份，应承诺自股票上市起满3年后方可转让；申请前6个月内进行增资扩股的，自股票上市起12个月内不能转让，并承诺自股票上市起24个月内，可出售的股份不超过50%。
+　　 
+　　此外，《公司法》规定，除前述两类股东外的其他股东所持股份，需自股票上市起12个月内不能转让；公司高管、董监事人员在职期间每年转让的股份不得超过25%，离职半年后方可转让全部股份。面对上述限制，今年来不少创业板公司高管挂冠离职，从而达到套现目的。
+　　 
+　　保代培训会对于股份限售问题要求：申请受理前6个月增资的股份，自工商登记日起锁定3年；申请受理前6个月从控股股东或者实际控制人处受让的股份，自上市日起锁定3年；申请受理前6个月从非控股股东处受让的股，自上市日起锁定1年；控股股东关联方的股份，自上市日起锁定3年；不能确定控股股东的，按股份大小排列锁定不低于51%的股份，锁定期3年。深交所也于日前发出通知，规定上市公司董监高在首次公开发行股票上市之日起6个月内申报离职的，自申报离职之日起18个月内不得转让其直接持有的股份；在首次公开发行股票上市之日起第7个月至第12个月之间申报离职的，自申报离职之日起12个月内不得转让其直接持有的股份。
+　　 
+　　如发现国有资产转让未评估的，保荐机构应该调查出具体原由，而不能泛泛的说合规；对定募公司的股东，不能简单将托管资料作为依据，要对登记托管持有人与实际持有人是否一致进行核查，至少要找到90%的股东当面确认。历史出资存在纠纷的，可以采取补救措施，但补救后需运行一段时间。在重大违法违规行为问题方面，监管部门要求保荐机构要有自己的判断和分析。如发行人历史受过环保、税务、工商等部门的重大行政处罚，保荐机构除了让发行人请处罚部门出具相关文件外，更应该具体分析，而不是简单地依靠处罚部门出具的认定下结论。
+　　 
+　　※ 核查定募股东要找90%股东当面确认
+　　 
+　　股份公司上市前的募集设立，通常是发起人认购应发行股份的一部分，其余股份向社会公开募集。公司法第七十九条规定，设立股份有限公司，应当有两人以上二百人以下为发起人，其中须有半数以上的发起人在中国境内有住所。对于200人股东问题，保代培训会要求发行人对超限股东的清理工作应该慎重，清理过快会导致矛盾。保荐代表人要对清理的真实性、合法性等问题予以特别关注，尤其要小心“假清理”。证监会要求保荐代表人对被清理出去的股东进行一一面谈，或者至少人数90%以上。保荐机构不要误以为“200人”是一个唯一硬指标，即使发行前股东人数不到200人，但是曾经有过公开登报发行股票等行为的，也将被认为违反规定。
+　　 
+　　※ “突击入股”不明原因建议延长锁定期
+　　 
+　　由于创业板频频陷入“突击入股”的质疑漩涡，监管层因此加大监管力度，发行审核趋紧。
+　　 
+　　其中最重要的一点就是要求创业板公司上市材料中，应申报一年内新增股东的持股时间、数量及变化情况定价依据，自然人股东需要披露最近5年的履历，法人股东要披露其主要股东和实际控制人。
+　　 
+　　保代培训会要求，申请前6个月从控股股东或实际控制人处受让的股份、控股股东的关联方股东所持股份，自股票上市日起3年内不能转让；申请受理前6个月从非控股股东处受让的股份，自上市日起1年内不能转让；申请受理前6个月内送股或转增形成的股份，锁定期和原股份相同。
+　　 
+　　此外，监管部门明确强调保荐机构要重点调查分析并详细披露突击股东进来的股东情况、和原股东的关系、是否存在违规行为；对不明原因突击入股的股东，监管部门建议延长锁定期。
+　　 
+　　※ 关联交易仍是核心关注点之一
+　　 
+　　为了规避税负、转警惕关联交易非关联化移或操纵利润，关联交易在企业中可谓普遍存在。管理办法第十九条规定，发行人与控股股东、实际控制人及其控制的其他企业间不得有同业竞争或者显失公平的关联交易。第三十二条规定，发行人应完整披露关联方关系并按重要性原则恰当披露关联交易。关联交易价格公允，不存在通过关联交易操纵利润的情形。
+　　 
+　　为了避开上述管理办法规定的约束，很多公司关联方通过出让股权或者中止受让相关股份，名义上解除关联方关系，但实质上仍有瓜葛，即关联交易非关联化，从而达到粉饰业绩的目的。在这方面，保荐机构不能仅限于调查发行人是否符合上述规定，还应核查非关联化的真实性和合法性；是否存在委托等代理持股情形；非关联化后相关方与发行人的交易是否公允；发行人已经剥离的业务最近三年是否存在违法违规；关联化对发行人的独立性、改制方案完整性以及生产经营的影响；招股书应披露非关联化前后的具体情况。
+　　 
+　　证监会多次强调了创业板公司的独立性问题。一、创业板申请人的总经理、副总经理等高级管理人员不能在关联方担任执行董事职务。二、各股东之间的持股比例相互独立。三、如果发行人、实际控制人的经营能力较差，除发行人外，实际控制人其余资产的业绩较差，则很可能产生资金占用问题，证监会将予以重点关注。四、发行人与董监高及其亲属共同设立公司，应当清理。
+　　 
+　　※ 关注创业板独立性
+　　 
+　　首次公开发行股票并在创业板上市管理暂行办法规定，发行人近两年连续盈利，最近两年净利润累计不少于1000万元，且持续增长；或者最近一年盈利，且净利润不少于500万元，最近一年营业收入不少于5000万元，最近两年营业收入增长率均不低于30%。
+　　 
+　　监管部门还规定，对于最近一期净利润存在明显下滑的，近半年净利润不足上一年度净利润50%的，近三季度净利润不足年度净利润75%的，发行人需提供能证明保持增长的财务报告或作盈利预测，而此预测必须是基于正在执行或已签署的合同作出的，没有合同支撑的盈利预测，证监会是不认可的。
+企业IPO如何选择咨询公司
+　　证监会公告显示，2010年创业板发审委召开发审委会议95次，审核首发企业168家，其中审核通过企业143家，通过率为85.12%，未通过企业25家，未通过率为14.88%。创业板IPO通过率的降低，这一方面说明发审委对创业板IPO企业的审查力度加大，条件也从比2009年收紧很多。而众多中国中小企业都对创业板翘首以待，过会率下降无疑是个不小的打击。在这样的形势下，也有一些咨询顾问公司喊出保证100%过会率的口号，以此来吸引客户。那么，作为一家准备IPO的企业，如何选择咨询顾问公司呢？
+　　 
+　　保证过会率100%是在误导咨询市场，误导企业。咨询公司因为各自的研究方法、服务客户自身条件等因素不同，会出现高低不一的过会率，当然其中也可能出现100%过会的可能性。但是由于企业自身盈利状况、财务状况、品牌状况、发展前景各不相同，因此任何咨询公司都难以保证100%过会。咨询公司的工作就是帮助即将IPO的企业做一份报告，这份报告需要发审委审核，决定是否同意企业IPO。而报告的内容一般都会格式化，规范化，但是也有一定的技巧。做这份报告的技巧，主要源自咨询公司长期的积累和总结，我们找到了提高报告过会率的关键点。这种经验是需要积累的，做的客户越多，就越有经验。单纯从咨询公司所宣称的过会率高低来评价咨询公司的优劣是不客观的，应该从诚信度、研究能力、案例多少、产业研究等多个方面去衡量。
+          
+          
+          
+          
+          </div>
+      </div>
+  </div>  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    企业IPO上市流程
+IPO步骤：股份有限公司设立→上市辅导→制作材料→发行申报与审核→发行、挂牌
+
+改制与设立
+　　※ 改制、设立方式：三种
+　　 
+　　1. 新设设立：5个以上发起人；
+　　 
+　　2. 改制设立：原资产评估后作为原投资者的出资；
+　　 
+　　3. 有限公司整体变更。
+　　 
+　　※ （二）改制与设立程序：
+　　 
+　　1. 新设：发起人制定设立方案；签署发起人协议、公司章程；获省级政府批准；发起人认购、缴款；验资；创立大会；申请登记。
+　　 
+　　2. 改制设立：拟订方案；资产评估；发起人协议、公司章程；土地处置方案，获批；政府批准；发起人认购、缴款；财产转移；验资；创立大会；申请登记。
+　　 
+　　3. 有限变更：向国务院授权部门或省级政府提出变更申请并获批；聘请有证券资格的审计；原股东做股份公司发起人，将经审计的净资产按1：1的比例投入到拟设立的股份公司；验资；拟公司章程；创立大会；变更登记。
+
+上市辅导
+　　上市辅导是指有关机构对拟发行股票并上市的股份有限公司进行的规范化培训、辅导与监督。上市辅导是上市过程中的一个阶段，具体内容如下：
+　　 
+　　※ 辅导程序：
+　　 
+　　聘请保荐机构；签署辅导协议，证监局备案；正式开始辅导；辅导机构对问题提出整改建议，督促整改；对接受辅导人员进行至少1次书面考试；向证监局提交辅导评估申请；证监局验收，出具监管报告；准备发行股票事宜，在辅导期满6个月后10天内，就接受辅导、准备发股事宜在报纸公告。
+　　 
+　　※ 辅导内容：
+　　 
+　　督促董事、监事、高管人员、持5%以上（含5%）股东或法人代表进行全面法规知识学习、培训；督促股份公司建立现代企业制度要求的公司治理基础；核查股份公司在设立、改制重组、股权设置和转让、增资扩股、资产评估、资本验证方面是否合法有效，产权关系是否明晰，股权结构是否符合规定；督促独立经营，做到业务、资产、人员、财务、机构独立完整，主营突出，形成核心竞争力；督促股份公司规范与控股股东及其他关联方的关系；督促建立完善内部决策控制制度；督促建立健全财务会计管理体系，杜绝会计造假；明确业务目标、未来发展计划，制定可行的募股资金投向规划；对股份公司是否达到发行上市条件进行综合评值，协助开展首次发行股票的准备工作。
+　　 
+　　上市辅导的主要程序：
+　　 
+　　1. 聘请辅导机构。企业选择辅导机构要综合考察其独立性、资信状况、专业资格、研发力量、市场推广能力、具体承办人员的业务水平等因素。根据《证券经营机构股票承销业务管理办法》（证委发［1996］18号）的规定，持有企业7%以上的股份或者是企业前5名股东之一的证券经营机构，不得成为该企业的保荐机构。如果企业想使辅导机构与保荐机构合二为一，就不宜选择上述不具备独立性的证券经营机构担任辅导机构。
+　　 
+　　2. 辅导机构提前入场。按规定，上市辅导应在企业改制重组为股份有限公司后正式开始。但是，改制重组方案是企业发行上市准备的核心内容，是上市辅导工作的重中之重。因此，如果可能，辅导机构在与企业达成辅导意向后，就应及早介入企业发行上市方案的总体设计和改制重组的具体操作。
+　　 
+　　3. 双方签署辅导协议，登记备案。待改制重组完成、股份公司设立后，企业和辅导机构签订正式的辅导协议，在辅导协议签署后5个工作日内到企业所在地的证监会派出机构办理辅导备案登记手续。
+　　 
+　　4. 报送辅导工作备案报告。从辅导开始之日起，辅导机构每3个月向证监会派出机构报送1次辅导工作备案报告。
+　　 
+　　5. 对企业存在的问题进行整改。随着辅导的进行，辅导机构将针对企业存在的问题，提出整改建议，督促企业完成整改。在上市辅导过程中遇到的疑难问题，企业可尝试征询业内专家或权威部门的意见，以少走弯路。
+　　 
+　　6. 企业向社会公告准备发行股票的事宜。企业应在辅导期满6个月之后10天内，就接受辅导、准备发行股票的事宜在当地至少2种主要报纸连续公告2次以上，接受社会监督。公告后，证监会派出机构如果收到关于企业的举报信，可能组织对举报信的调查，企业应积极配合调查，消除发行上市的风险隐患。
+　　 
+　　7. 辅导书面考试。辅导机构将在辅导期内对接受辅导的人员进行至少1次书面考试，全体应试人员最终考试成绩应合格。
+　　 
+　　8. 提交辅导评估申请。辅导协议期满，辅导机构如果认为辅导达到计划目标，将向证监会派出机构报送“辅导工作总结报告”，提交辅导评估申请；辅导机构和企业如果认为辅导没有达到计划目标，可向证监会派出机构申请适当延长辅导时间。
+　　 
+　　9. 辅导工作结束。证监会派出机构接到辅导评估申请后，将在20个工作日内，完成对辅导工作的评估，如认为合格，将向证监会出具“辅导监管报告”，发表对辅导效果的评估意见，辅导结束；如认为不合格，将酌情要求延长不超过6个月的辅导时间。
+制作申报材料
+
+发行申报与审核
+　※ 是否达到发行条件：
+　　 
+　　1. 前一次新股已募足，间隔一年以上；
+　　 
+　　2. 设立股份公司已满3年，国有改制、有限变更的可不受限；
+　　 
+　　3. 最近三年连续盈利，并可向股东支付股利；
+　　 
+　　4. 三年内无重大违法行为，财务文件无虚假记载；
+　　 
+　　5. 预期利润率达到同期银行存款利率；
+　　 
+　　6. 发行前股本不少于拟发行股本的35%，且发行后总股本不少于人民币5000万元，向社会公开发行股份达股份总数的25%以上，股本超过4亿元的，公开发行比例为15%以上；
+　　 
+　　7. 生产经营符合国家产业政策；
+　　 
+　　8. 发行前一年末，无形资产（不含土地）占资产总额不得超过20%，发行后净资产占总资产中的比例不低于30%；
+　　 
+　　9. 与控股股东（或实质控制人）及其全资或控股企业不存在同业竞争；
+　　 
+　　10. 具有直接面向市场独立经营的能力，最近一年和最近一期与控股股东及其全资或控股企业在产品销售或原材料采购交易额，占公司主营收入或外购原材料比例不超过30%；
+　　 
+　　11. 具有完整的业务体系，最近一年和最近一期公司委托控股股东及其全资或控股企业产品销售或原材料采购交易额均不超过30%；
+　　 
+　　12. 具有开展生产经营必备的资产，最近一年和最近一期，以承包、委托经营、租赁或其他类似方法以来控股股东及其全资或控股企业产生的收入不超过主营业务收入的30%；
+　　 
+　　13. 董事长、副董事长、总经理、副总经理、财务负责人、董秘没有在控股股东（或实质控制人）中担任除董事以外的其他行政职务，也没有在控股股东处领薪；
+　　 
+　　14. 除国务院规定的投资公司和控股公司外，公司所累计投资额不得超过本公司净资产的50%（最近一期审计合并表）；
+　　 
+　　15. 董事会中至少有三分之一独立董事，且独立董事至少包括一名会计专业人士（高级或CPA）；
+　　 
+　　16. 所募资产有明确用途，投资项目经慎重论证，筹资额不得超过上年未经审计净资产的两倍。
+　　 
+　　※ 为股票发行申请文件制作做好准备工作：
+　　 
+　　聘请有证券资格的律师和会计师；和保荐机构共同制定初步发行方案；对募资投资项目的可行性进行评估；对需环保出具证明的，申请测试，获得证明文件；整理公司近三年的所得税申报表并向税务申请出具近三年是否存在违反税收法规的证明。
+　　 
+　　※ 制作发行文件：
+　　 
+　　招股说明书及摘要；近三年审计报告；发行方案和发行公告；保荐机构向证监会推荐公司发行股票的函；保荐机构关于申请发行、核查意见；辅导机构报证监局备案的《股票发行上市辅导汇总报告》；律师出具的法律意见书和律师工作报告；企业申请发行股票的报告；企业发行股票授权董事会处理有关事宜的股东大会决议；本次募资运用方案及股东大会决议；有权部门对固定资产投资项目建议书的批准文件（如需立项的）；募资运用项目的可行性研究报告；股份公司设立的相关文件；其他相关文件。
+　　 
+　　※ 股票发行审核：
+　　 
+　　1. 受理申请文件。申报文件要齐全和形式合规，审计资料最后审计日在三个月内；
+　　 
+　　2. 初审。发行部静默审核申报材料；
+　　 
+　　3. 发审委审核。7名委员，记名方式，同意票要达到5票方为通过；
+　　 
+　　4. 核准发行。受理之日起三个月内。
+发行与挂牌上市
+　※ 发行：
+　　 
+　　1、刊登招股说明书摘要和发行公告；
+　　 
+　　2、通过互联网发行路演（也可现场推介）；
+　　 
+　　3、投资者申购；
+　　 
+　　4、深交所进行配号；
+　　 
+　　5、公布配号；
+　　 
+　　6、主承销商摇号抽签；
+　　 
+　　7、公布中签结果；
+　　 
+　　8、收取新股认购款；
+　　 
+　　9、清算交割，划入主承销商指定帐户；
+　　 
+　　10、承销商将募资划入发行人指定帐户；
+　　 
+　　11、验资。
+　　 
+　　※ 上市：
+　　 
+　　拟订代码、简称，申请报深交所核定；向深交所上市申请；审查批准，发出上市通知书；与深交所签订上市协议书；披露上市公告书，在挂牌前三个工作日内公告；挂牌交易，一般在股票发行后七个交易日内挂牌。
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    中研普华IPO咨询内涵及价值
+　　上市咨询（IPOConsultation)就是解决上市中遇到的各种问题。主要通过各种中介机构进行咨询，这些中介机构包括券商、会计师事务所、律师事务所、行业咨询机构、募投项目设计机构等。通过上市咨询机构完善公司治理结构、理清股权、健全会计制度、完善内控制度使企业整体达到上市要求。
+　　 
+　　“券商”，主要指证券公司投行部。主要综合完成上市中遇到的问题，起总协调作用。主要工作是前期辅导、编写上市申报材料、承销股票发行等。例如中信证券、中金证券等。
+　　 
+　　会计师事务所主要完成上市企业的财务审计、财务制度的设计，财务内部控制等工作。例如天健会计师事务所、立信会计师事务所等。
+　　 
+　　律师事务主要处理公司遗留法律问题，理清历史沿革，保证各种事件符合法规规定。例如锦天城律师事务所、观韬律师事务所等。
+　　 
+　　行业咨询机构、募投项目设计机构主要是研究细分行业和设计上市募投项目。为企业上市提供市场数据、战略规划、行业界定、募投项目设计和募投项目可行性分析。例如中研普华等。
+IPO咨询的内涵
+　　在企业上市过程中，主要的服务主体包括券商、具有证券业从业资格的会计师事务所和律师事务所、咨询机构，以及专业财经公关公司等。其中，咨询机构侧重于行业分析、企业核心竞争力评估与募集资金投资研究，即是在行业分析的基础上，对企业核心竞争能力进行综合评估，并为募集资金投资的科学配置给予建议，帮助企业保持高成长与高创新能力，以实现企业的可持续发展。
+　　 
+　　明确市场现状、把握市场前景是IPO咨询的基础。企业能否实现可持续增长，取决于企业业务所依托的行业和市场。市场现状、市场规模、市场竞争结构、市场影响因素、市场发展趋势是企业选择募集资金投资方向的重要依据。因此，IPO咨询首先包含了行业研究咨询业务。
+　　 
+　　企业核心竞争力评估是IPO咨询的关键。企业核心竞争力评估也是企业进入不同细分领域的重要决策要素。对企业内部资源与能力的分析，要求IPO咨询企业在管理咨询领域具有深厚的经验积累，对企业的商业模式、管理模式、研发创新能力、销售渠道等有深刻的理解。
+　　 
+　　合理配置募集资金投资是IPO咨询的目标。围绕IPO进行的行业研究和企业核心竞争力评估，最终都是通过科学合理的配置募集资金投资得到体现。募集资金投资研究具体包含了投资方向、投资规模、投资结构、项目建设方案、项目技术方案、项目的投资估算、项目的投资效益等，确保企业募集资金投资具有良好的财务和经济效益，同时能够科学的识别项目实施风险，建立一套行之有效的风险控制体系。
+各服务主体的职责
+　　券商在IPO过程中主要职责包括安排时间表、协调顾问工作、准备招股书草稿和上市申请、建议股票定价。具体负责证券发行的主承销工作，对公开发行募集文件进行核查并出具保荐意见，对发行人进行辅导进行尽职调查、审慎核查，组织编制申请文件并出具推荐文件，对发行人提供的资料和披露的内容进行独立判断；
+　　 
+　　律师事务所在IPO过程中主要职责包括考虑公司组织结构、审核招股书、编制承销协议。负责进行涉及法律事项的尽职调查，出具法律意见书和律师工作报告。律师事务所还应对发行申请文件中不能提供原件的有关文件进行鉴证，以保证与原件一致；对发行申请文件中所提供的全部产权证书的真实性、合法性和有效性。
+　　 
+　　会计师事务所在IPO过程中主要职责包括完成审计业务、准备会计师报告、资产评估报告(资产评估师)、复核盈利及营运资金预测。具体工作涵盖涉及财务方面的前期尽职调查，资产置入或置出等业务重组审计，剥离调整审计，股权结构调整审计以及利润分配审计，股份制改造审计，验资、股权结构调整审计及验资、申报财务报表审计，补充审计，发行验资、股票上市等。
+　　 
+　　财经公关公司在IPO过程中主要职责是为上市公司和投资者之间搭建一个良性沟通平台，向投资者充分展示企业的成长性和投资价值。
+中研普华IPO咨询服务价值
+　　1. 为IPO招股说明书的撰写提供基础资料
+　　2. 提供符合招股说明书要求的行业研究文案
+　　3. 客观描述拟上市企业的业务发展潜力和市场竞争力
+　　4. 为拟上市企业上会审查提供第三方数据支持
+　　5. 为投资者和证监会展示拟上市企业所处细分市场发展状况
+　　6. 为拟上市企业进行主营业务描述与中长期发展规划
+　　7. 清晰阐述公司所处细分市场的创新性和成长性
+　　8. 充分论证募投项目的必要性和可行性
+　　9. 提升拟上市企业知名度和IPO后的投资价值
+企业IPO前期咨询
+　　★IPO前企业内部规范化治理方案
+　　 
+　　人员进场，进行规范化评估，找出缺陷，完善制度。
+　　 
+　　管理层、核心技术人员访谈，上市前细分市场行业深度分析。确定企业定位，成长性，竞争地位。
+　　 
+　　合理化组织架构、规范财务、完善内控、完善生产和质量控制体系、提供销售策略指导、健全激励制度、完善决策制度、规划战略。
+　　 
+　　★PE选择
+　　 
+　　进行引进战略投资者分析设计、引进战略投资者文件制作、引进战略投资者定价评估。
+　　 
+　　★券商选择
+　　 
+　　综合分析各个券商，为企业找出合适的保荐机构，压缩企业上市时间、提高企业上市通过率。减少企业因对券商了解不够多次更换券商的麻烦。
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    中研普华IPO细分市场研究
+　　细分市场研究是企业上市前的必要环节，对于拟上市企业十分重要。作为企业IPO申请上市的必备法律文件，招股说明书有4大核心章节：发行人基本情况、业务与技术、财务会计信息、募集资金运用。其中，发行人基本情况、财务会计信息基本是硬件要求，如果不能满足证监会要求，券商也基本不会提交申报材料；而业务与技术、募集资金运用是完全在于对公司实际情况的把握下，充分地突出公司亮点和前景、行业亮点和前景的好时机。其中，满足“业务与技术”章节，需要进行细分市场研究。它是证监会发审委审核重点，关系到企业是否成功过会。另外，它还关系到企业的发展战略和投资者对企业投资价值的判断，以及企业股票发行价格的高低。
+　　 
+　　充分描述细分市场的发展现状及未来成长性，清晰描述细分市场竞争格局以及竞争对手的优劣势。在企业上市申报材料中，这些是证监会特别关注的内容。
+　　 
+　　细分市场调研工作是募投项目可行性研究的前期最关键环节。我们提供的细分市场研究从多个角度去分析企业市场地位，在保证真实、客观的前提下，突出企业在细分市场中的地位和市场份额，突出企业亮点。
+　　 
+　　我们提供的细分市场研究不仅只关注数据，而且更加关注数据的深度分析及推理过程。而这种深度分析也正是IPO和再融资发审委现今更为关注的。
+　　 
+　　我们提供的细分市场研究满足招股说明书“业务与技术”章节所需的全部资料，同时为企业制定今后发展战略提供科学依据。
+　　 
+　　中研普华根据产业细分设立了几十个细分行业研究事业部，研究范围基本覆盖了所有行业。
+中研普华的优势
+　　※	中研普华的数据已经得到了中国证监会发审委员的高度认可
+　　 
+　　※	细分市场研究工作有效的描述企业的盈利模式，市场地位，未来成长性
+　　 
+　　※	实地调研工作决定了细分市场的研究深度
+　　 
+　　※	中研普华8年来一直对1000多个细分市场在做持续的监测研究
+　　 
+　　※	我们的研究服务：主要解决招股说明书“业务与技术”章节
+　　 
+　　※	我们将于准备上市企业签订法律连带责任去保证我们数据的准确性
+　　 
+　　※	我们工作的职责：清晰阐述公司所处细分市场成长性、投资价值
+中研普华细分市场调研的工作流程
+质量控制过程	质量控制内容	质量控制要求
+项目前	项目可行性和风险评估的审核	与企业进行接洽之后，初步建立合作意向。将该项目提交公司内核部进行项目可行性和风险评估的审核，通过公司内核部内核后，与企业签订合同进场服务。
+项目中	工作主动性	以周为单位，周末利用非工作时间，开会讨论上周工作情况；员工内部自我总结，相互指出不足，总结经验，并形成会议纪要。
+效率	1.在向企业提交整体工作计划后，中研普华项目组内部，要根据该计划形成一个完整、详细的个人工作计划； 
+2.项目经理领导、监督各员工工作情况； 
+3.员工每天按要求撰写工作日志，供内核部审查。
+底稿	1. 重点提交财务数据的勾稽关系、底层分析模型和测算文档； 
+2. 深入了解企业情况，挖掘企业亮点； 
+3. 企业提供的文件，股权结构、财务报表、荣誉证书、历史严格等，要整理规范形成文件，并经企业签字认可； 
+4. 所有访谈记录，都需形成访谈底稿，经企业签字认可。
+形象	上班要穿正装，要遵守所在企业规章制度。
+质量	做到“报告规范、结构合理、逻辑清晰、数据详实、内核通过、企业满意、券商认可”
+稿件提交	初稿在发给客户之前务必提交内核部，内核部提出修改意见，然后及时处理，处理完毕，再次提交二次内核部，内核部通过，提交客户。
+后台支持	市场调研中心、数据库服务中心、产业研究中心都必须响应IPO项目组要求，配合项目组现场开展工作。
+项目后	项目组服务质量的访谈	对企业进行项目服务质量的访谈，就企业给项目各个环节的评价，对项目小组进行考核。
+上市前细分市场调研的价值
+
+上市前细分市场调研解决的问题
+
+证监会对IPO企业招股说明书的“业务与技术”章节的要求
+　　※	发行人应披露其所处行业的基本情况，主要包括：
+　　 
+　　1.	行业主管部门、行业监管体制、行业主要法律法规及政策等；
+　　 
+　　2.	行业竞争格局和市场化程度、行业内的主要企业和主要企业的市场份额、行业进入障碍、市场供求状况及变动原因、行业利润水平的变动趋势及变动原因等；
+　　 
+　　3.	影响行业发展的有利和不利因素，如产业政策、技术替代、行业发展瓶颈、国际市场冲击等；
+　　 
+　　4.	行业技术水平及技术特点、行业特有的经营模式、行业的周期性、区域性或季节性特征等；
+　　 
+　　5.	发行人所处行业与上下游行业之间的关联性，上下游行业发展状况对本行业及其发展前景的有利和不利影响；
+　　 
+　　6.	出口业务比例较大的发行人，还应披露产品进口国的有关进口政策、贸易摩擦对产品进口的影响、以及进口国同类产品的竞争格局等情况。
+　　 
+　　※	发行人应披露其在行业中的竞争地位，说明产品或服务的市场占有率、近三年的变化情况及未来变化趋势，主要竞争对手的简要情况等。
+　　 
+　　※	发行人应披露与主营业务相关的情况，主要包括：
+　　 
+　　7.	主要产品或服务的用途；
+　　 
+　　8.	主要产品的工艺流程图或服务的流程图；
+　　 
+　　9.	主要业务模式，如采购模式、生产或服务模式、营销及管理模式，以及盈利模式；
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    中研普华的优势
+　　企业通过IPO或再融资募集来的资金投产的项目，称作募投项目，募投项目是企业IPO成功的关键。募集资金运用是招股说明书有4大核心章节中十分关键的一个章节。募投项目也是证监会审核阶段非常关键的一环。证监会和投资者会根据企业的募投项目的市场前景、技术含量、财务数据等综合来判断企业的投资价值和成长潜力，从而判断是否要企业成功过会，因此，上市募投项目可行性研究工作直接关系到企业能否上市成功。
+　　 
+　　中研普华募投项目设计，会结合细分市场报告和企业自身特点，合理预测项目前景和盈利能力，准确描述与公司核心竞争优势及持续盈利能力之间的逻辑关系，并对其可行性、必要性和可控性进行论证，充分吻合证监会审核思路，设计出合理的、严谨的、符合IPO要求的募投项目，以保证通过证监会审核。
+　　 
+　　中研普华自成立以来，为各地政府、企业提供上百个项目可行性评估、产业园区规划、产业投资测算；为各企业新建投资项目、扩产投资项目提供规划、评估与测算；同时也为众多家企业设计募投方案并成功上市或即将上市。
+　　 
+　　我们会和企业、券商充分沟通后确定募投项目方案。我们的募投项目可行性分析报告直接指向发审委规则、券商内核部要求，既可以满足募投项目在当地发改委备案的需要，又可以满足招股说明书“募集运用”章节的全部资料。
+中研普华募投项目的工作流程
+
+募投项目可行性研究工作的意义
+　　※ 上市募投项目可行性研究工作决定了企业能否上市成功
+　　 
+　　※ 证监会会依据募投项目的必要性和可行性分析结果做出判断是否成功过会
+　　 
+　　※ 投资者会根据企业的募投项目来判断企业的投资价值和增长潜力
+　　 
+　　※ 上市募投项目一定要与公司未来发展战略相一致
+　　 
+　　※ 懂得做细分市场研究，才能设计出合理的、严谨的、精彩的募投项目
+　　 
+　　※ 中研普华可研报告直接指向证监会、券商内核部的IPO项目只要申报到证监会发审委过会的项目，没有一个项目被否决的。
+　　 
+　　证监会对IPO企业招股说明书的“募投资金使用计划”章节的要求
+　　 
+　　※ 发行人募集资金应当围绕主营业务进行投资安排，应披露预计募集资金数额、专户存储安排、募集资金具体用途、预计投入的时间进度情况。
+　　 
+　　※ 实际募集资金数额与预计募集资金存在差异的，发行人应说明资金运用和资金管理的安排。
+　　 
+　　※ 募集资金项目涉及履行审批、核准或备案程序的，应披露相关的履行情况。
+　　 
+　　※ 募集资金用于提升服务能力、拓展市场营销、改进技术或管理、改造生产或服务流程或设施、扩充人力资源以及其他围绕主营业务而提升核心竞争力的，发行人应披露募集资金的具体投资安排，说明对发行人未来经营成果的影响。
+　　 
+　　※ 募集资金投入导致发行人业务模式发生改变的，发行人应说明这种变化对主营业务的影响，并结合经营管理能力、技术准备、产品市场开拓的情况进行可行性分析。
+　　 
+　　※ 募集资金用于扩大现有产品产能的，发行人应结合现有产品报告期内的产能、产量、销量、产销率、销售区域，项目达产后产品新增的产能、产量以及本行业的发展趋势、相关产品的市场容量、主要竞争对手等情况，对项目的市场前景进行分析。
+　　 
+　　※ 募集资金用于新产品开发生产的，发行人应结合新产品的市场容量、主要竞争对手、行业发展趋势、技术保障、项目投产后新增产能情况，对项目的市场前景进行分析。
+　　 
+　　※ 发行人报告期内固定资产投资和研发支出很少、本次募集资金将大规模增加固定资产投资或研发支出的，应充分说明固定资产变化与产能变动的匹配关系，并充分披露新增固定资产折旧、研发支出对发行人未来经营成果的影响。
+　　 
+　　※ 募集资金直接用于固定资产投资项目的，发行人可视实际情况并根据重要性原则披露下列内容：
+　　 
+　　1. 投资概算情况，预计项目投资规模及募集资金具体用途，如购置设备、土地、技术以及补充流动资金等；
+　　 
+　　2. 产品的质量标准和技术水平，生产方法、工艺流程和生产技术选择，主要设备选择，核心技术及其取得方式；
+　　 
+　　3. 主要原材料、辅助材料及能源的供应情况；
+　　 
+　　4. 投资项目的竣工时间、产量、产品销售方式及营销措施；
+　　 
+　　5. 投资项目可能存在的环保问题、采取的措施及资金投入情况；
+　　 
+　　6. 投资项目的选址，拟占用土地的面积、取得方式及土地用途；
+　　 
+　　7. 项目的组织方式、项目的实施进展情况。
+　　 
+　　※ 募集资金拟用于合资经营或合作经营的，在披露第九十七条内容的同时，还应披露：
+　　 
+　　1. 合资或合作方的基本情况，主要包括名称、法定代表人、住所、注册资本、实收资本、主要股东、主营业务，与发行人是否存在关联关系；投资规模及各方投资比例；合资或合作方的出资方式；合资或合作协议的主要条款以及可能对发行人不利的条款；
+　　 
+　　2. 拟组建的企业法人的基本情况，主要包括设立、注册资本、主营业务、组织管理和控制情况。不组建企业法人的，应详细披露合作模式。
+　　 
+　　※ 募集资金拟用于向其他企业增资或收购其他企业股份，且已确定的，应披露下列内容：
+　　 
+　　1. 拟增资或收购的企业的基本情况及最近一年及一期经具有证券期货相关业务资格的会计师事务所审计的资产负债表和利润表；
+　　 
+　　2. 增资资金折合股份或收购股份的评估、定价情况；
+　　 
+　　3. 增资或收购前后持股比例及控制情况；
+　　 
+　　4. 增资或收购行为与发行人业务发展规划的关系。
+　　 
+　　※ 第一百条募集资金拟用于收购资产，且已确定的，应披露下列内容：
+　　 
+　　1. 拟收购资产的内容；
+　　 
+　　2. 拟收购资产的评估、定价情况；
+　　 
+　　3. 拟收购资产与发行人主营业务的关系。
+　　 
+　　※ 若收购的资产为在建工程的，还应披露在建工程的已投资情况、尚需投资的金额、负债情况、建设进度、计划完成时间等。
+　　 
+　　※ 募集资金用于偿还债务的，应披露偿债的总体安排及对发行人财务状况、偿债能力和财务费用的具体影响。
+　　 
+　　※ 募集资金用于补充营运资金的，发行人应披露补充营运资金的必要性和管理运营安排，说明对公司财务状况及经营成果的影响和对提升公司核心竞争力的作用。
+　　 
+　　※ 发行人募集资金拟作其他用途的，应披露具体的安排及影响。
+　　 
+　　※ 发行人应披露募集资金运用对财务状况及经营成果的影响。发行人应审慎预测具体投资的效益，分别说明募集资金运用前后的效益情况，以及预计产生效益的时间，并充分说明预测基础、依据。
+证监会对IPO企业招股说明书的“未来发展与规划”章节的要求
+　　※ 发行人应披露发行当年和未来三年的发展规划及发展目标，说明发行人在增强成长性、增进自主创新能力、提升核心竞争优势等方面拟采取的措施。
+　　 
+　　※ 发行人应当结合募集资金运用，审慎分析说明发行人的未来发展及在增强成长性和自主创新方面的情况，具体分析说明可能涉及扩大市场规模、提高市场占有率、实现现有产品或服务升级、进行技术开发和持续创新、加强管理和技术团队建设、改善公司财务结构等情况。
+　　 
+　　※ 发行人披露的发展规划和目标应当具体明确，合理说明规划和目标所依据的假设条件，实施过程中可能面临的主要困难，确保实现规划和目标采用的方法或途径。发行人应声明在上市后通过定期报告持续公告规划实施和目标实现的情况。
+　　 
+　　※ 发行人应披露上述业务发展规划和目标与现有业务的关系。若实现上述规划和目标涉及与他人合作的，应对合作方及合作条件予以说明。
+　　 
+　　※ 发行人披露的规划、目标、措施以及相应的分析，应与招股说明书其他相关内容相衔接。
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    上市前期刊媒体发布
+　　行业细分市场研究报告在核心媒体期刊的发表，既可以从权威角度证明行业细分市场调研数据的权威性、准确性，又可以提升公司在资本市场的知名度，提高准上市企业的投资价值及向潜在投资者（包括基金公司、股民）传递企业的投资价值，让证监会和投资者在企业上市前就对企业和企业所在行业有一个充分的了解，提高过会成功率。
+　　 
+　　细分市场调研报告的结果要得到证监会发审委的认可，需要借助第三方权威媒体的印证，把这些细分行业的调研结果公布到国家权威媒体上，券商从国家核心期刊引用这些数据，这些数据才会被上市审批机构以及投资基金公司认可采纳。在国家核心期刊发表文章主要包括：准上市企业市场占有率，在行业的排名，细分市场规模，竞争格局，未来发展趋势等等。主要涵盖了企业招股说明书中的“业务与技术”章节的所需内容。
+　　 
+　　中研普华在国家核心期刊和权威媒体发表文章主要包括：拟上市企业市场占有率、细分市场规模、竞争格局及未来发展趋势等等。主要涵盖了企业招股说明书中的“业务与技术”章节所需内容。
+　　 
+　　国家核心期刊发表的内容和数据都需要经过严谨的推理和论证，具备权威性。
+　　 
+　　将关键结论、数据和主要观点发布到权威媒体和核心期刊上既可以保证研究数据的权威性和准确性，又可以提升IPO企业的品牌知名度和资本市场的投资价值，为企业成功上市营造有利的价值传播和公众影响力。
+　　 
+　　突出企业投资亮点，提高过会成功率。
+　　 
+　　中研普华与多个行业核心期刊和多个行业协会长期合作，可以联合第三方权威机构，以协会等行业权威性机构或行业专家学者名义发表文章。
+　　 
+　　中研普华不会因为外部因素而改变数据的客观性和独立性，承诺并保证数据的中立性、客观性、可靠性和真实性。
+1、企业将引用的数据发表在国家核心期刊、媒体上，验证中立性、权威性
+细分市场调研报告中主要数据，一定要在企业申报招股说明书之前在国家核心期刊、媒体上进行发表出去。
+在公开的期刊媒体上进行发表，也可以要全行业的专业人士对数据进行论证。
+中研普华与国内大部分核心期刊、权威杂志等媒体建立了有效的沟通渠道，我们的文章可以发表在大部分媒体上。
+2、发表的对象应该是本行业的权威杂志媒体，不能发表到不相关的媒体上
+比如说，医药、化工、电气、新材料、能源等方面的数据是不能发表到计算机或通信类媒体上
+如果一篇文章不能涵盖所有的引用数据，那么就发表2篇文章。 
+发表的时间一定要在企业封招股说明书之前
+上市再融资及兼并重组
+　　※ 再融资项目的细分行业研究。
+　　 
+　　※ 兼并重组项目的细分行业研究。
+　　 
+　　※ 再融资募投项目可行性研究。
+　　 
+　　※ 严格按照证监会要求撰写相关的细分行业研究报告和募投项目可行性研究报告。
+　　 
+上市前后发展战略规划
+　　※ 未来五年发展规划战略咨询服务理念：
+　　 
+　　※ 我们期望企业上市前后都有明确的战略规划
+　　 
+　　※ 对市场环境及竞争格局的前瞻性判断是战略规划的最重要依据
+　　 
+　　※ 战略咨询的重点不在于撰写咨询报告，而是如何制定执行策略
+　　 
+　　1. 目的：对外部不可控因素的对比分析是为了把握有利时机，规避风险，提升企业的快速应变能力和企业的创新变革和可持续发展能力。对因素的对比分析，使企业能够知己知彼，扬长避短，充分发挥自身优势，使目标、资源和战略统一和谐。
+　　 
+　　2. 外部环境调查分析内容：①宏观环境分析：政治（politics）、经济（Economy）、社会（society）、技术（Techno-logy）。（简称PEST分析）②中间环境分析：企业所在行业发展因素分析、企业所在行业结构进化预测、企业所在行业竞争结构分析、企业所在行业特征评价、企业所在行业的变革驱动分析、企业所在行业胜败关键因素分析、机会威胁分析、生命周期分析。③微观环境分析：顾客需求发展分析、供应者供应能力分析、竞争对手的竞争能力分析、潜在进入者分析、现有替代品分析、波特五动力模型分析应用。
+　　 
+　　3. 内部因素的调查分析内容：①企业内部分析：企业资源竞争优势分析、产品与服务价值链分析、企业核心管理能力分析、企业核心竞争力分析、企业潜在核心能力的分析、公司价格成本分析、公司面临战略优势与劣势分析、成本优势渠道的分析、关键利益相关者分析、企业产品、服务的生命周期分析、SWOT分析（优势（Strengths）、劣势（Weakness）、机会（Opportunities）、威胁（Threats））。②企业财务分析：经济效益分析方法、财务管理的能力与效益分析、公司财务能力分析、经济效益评价指标、财务比率分析。③市场营销分析：产品结构分析、产品生命周期分析、产品竞争能力分析、市场营销能力分析、投资组合分析之波士顿矩阵、市场营销环境分析。
+　　 
+　　4. 根据分析结果确定战略的方向、方针，确立分析结果和编写分析报告。 　　
+上市后并购咨询
+　　※ 中研普华为IPO企业提供上市后的并购咨询服务
+　　 
+　　1. 超募资金并购咨询
+　　 
+　　2. 产业链并购机会挖掘及咨询服务
+　　 
+　　3. 竞争对手并购咨询
+　　 
+　　※ 并购目标企业尽职调查及价值评测内容
+　　 
+　　1. 目标企业及其所处的行业的规模和特征；
+　　 
+　　2. 目标企业产品的市场发展前景和期望市场增长率；
+　　 
+　　3. 目标企业所占市场份额；
+　　 
+　　4. 目标企业所面临的竞争；
+　　 
+　　5. 目标企业的技术状况及其竞争者取得或模仿其技术的程度；
+　　 
+　　6. 目标企业服务的竞争优势；
+　　 
+　　7. 并购者所需要的投资及其收益率；
+　　 
+　　8. 目标企业的财务状况及其在市场的表现；
+　　 
+　　9. 目标企业在位的管理层、技术人员和其他关键人员的状况；
+　　 
+　　10. 并购者获得和保持目标企业业务的能力；
+　　 
+　　11. 并购方可以接受的价格范围。
+　　 
+　　※ 企业并购的程序
+　　 
+　　一般来说，企业并购经过前期准备阶段、方案设计阶段、谈判签约和接管整合四个阶段。如下：
+　　 
+　　1. 前期准备阶段：根据企业发展战略的要求制定并购策略，初步了解目标企业的情况，如所属行业、资产规模、生产能力、技术水平、市场占有率等等。
+　　 
+　　2. 方案设计阶段：方案设计阶段就是根据评价结果、限定条件（最高支付成本、支付方式等）及目标企业意图，对各种资料进行深入分析，统筹考虑，设计出数种并购方案，包括并购范围（资产、债务、契约、客户等）、并购程序、支付成本、支付方式、融资方式、税务安排、会计处理等。
+　　 
+　　3. 谈判签约阶段：通过分析、甄选、修改并购方案，最后确定具体可行的并购方案。并购方案确定后并以此为核心内容制成收购建议书或意向书，作为与对方谈判的基础；若并购方案设计将买卖双方利益拉得很近，则双方可能进入谈判签约阶段；反之，若并购方案设计远离对方要求，则会被拒绝，并购活动又重新回到起点。
+　　 
+　　4. 接管与整合阶段：双方签约后，进行接管并在业务、人员、技术等方面对目标企业进行整合。并购后的整合是并购程序的最后环节，也是决定并购是否成功的重要环节。
+企业境外IPO上市
+　　境外主要证券市场
+　　 
+　　境内企业境外上市主要集中在NASDAQ、纽约证券交易所、伦敦证券交易所主板、伦敦AIM、香港主板、香港创业板、新加坡主板、凯利板、东京证券交易所主板、东京证券交易所创业板、韩国交易所主板、韩国创业板、法兰克福证券交易所。
+　　 
+　　概述
+　　 
+　　在中国本土上市，对企业的要求很高，特别是一些条条框框的硬性规定让很多企业觉得登陆中国本土资本市场只是一个遥不可及的梦想。如果选择海外上市，那么企业一定要对海外证券市场有足够的了解。否则，打无准备之仗吃亏的永远是自己。内地企业海外上市的主要选择地有香港、新加坡、美国、英国、澳洲等国家和地区。
+　　 
+　　境外主要证券市场
+国家/地区	证券交易	上市板块	上市类别或标准
+英国	LSE	主板与AM	主板由FSA监管，AM为交易所监管
+德国	FSE	在新市场关闭后不再设立不同板块	上市标准分交易所监管（准入标准和初级标准）与欧盟监管（一般标准和高级标准）
+泛欧	NYSE Euronext (Euiope)	Euiolist与A ltemext	
+国内发行或其他
+加拿大	TSX	主板与TSX-V	按行业区分上市标准
+澳大利亚	ASX	主板	分首发上市与第二上市
+新加坡	TSE	主板与凯利板	 
+韩国	KRX	主板与KOSDAQ	分首发上市和第二上市
+日本	TSE	主板与Mothers市场	主板分第一部类和第二部类，每部类再分首发上市与第二上市
+中国香港	HKSE	主板与创业板	分首发上市和第二上市
+美国	NYSE Euronext(US)	市场较为成熟，上市条件严格，每年的费用也较高，服务对象主要是中小企业和高科技公司，除了股票，很多非美国公司的美国存托凭证（American Depos it Receipts ADRs）也在AMEX挂牌。
+
+　境内外IPO优势比较
+项目	境内发行	境外发行
+融资费用	低	高
+价值发现程度	大	一般
+发行风险	较小	较大
+发行规模	较大	一般
+创新性	高	无
+资本市场影响力	大	一般
+未来筹资手段	多	少
+公司管理水平提升	有利	较有利
+操作难度	复杂	复杂
+
+中研普华提供企业境外IPO上市的服务
+　　 
+　　中研普华全程策划、参与、实施企业海外挂牌上市一体化解决方案，为拟海外上市企业提供包括财务、法律、兼并、并购、协助发行等一站式服务，全方位为企业解决问题。
+　　 
+　　具体工作内容如下：
+　　 
+　　1. 制定境外上市导向战略规划
+　　 
+　　2. 设计境外上市方案
+　　 
+　　3. 设计境外上市企业股权与资产结构
+　　 
+　　4. 设计境外上市企业期权激励方案
+　　 
+　　5. 协助完善境外上市企业财务规范
+　　 
+　　6. 寻找战略投资人，帮助完成重组
+　　 
+　　7. 选择其它中介机构并协调各中介机构的工作进程
+　　 
+　　8. 准备融资和上市有关文件和资料
+　　 
+　　9. 协助获得有关政府和监管部门的审批
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    尽职调查的目的
+　　尽职调查由中研普华在企业的配合下，对企业的历史数据和文档、管理人员的背景、市场风险、管理风险、技术风险和资金风险做全面深入的审核。尽职调查的目的是使买方尽可能地发现有关他们要购买的股份或资产的全部情况。从买方的角度来说，尽职调查也就是风险管理。对买方和他们的融资者来说，并购本身存在着各种各样的风险，诸如，目标公司过去财务帐册的准确性；购并以后目标公司的主要员工、供应商和顾客是否会继续留下来；是否存在任何可能导致目标公司运营或财务运作分崩离析的任何义务。其主要是在收购（投资）等资本运作活动时进行，企业上市发行时，也会需要事先进行尽职调查，以初步了解是否具备上市的条件。
+中研普华尽职调查的价值
+　　中研普华作为专业的第三方中介机构，能独立于投资者和目标企业，能保证调职调查报告的客观、专业、全面。
+　　 
+尽职调查主要内容
+　　1. 公司简介
+　　 
+　　2. 公司组织结构
+　　 
+　　3. 供应
+　　 
+　　4. 业务和产品
+　　 
+　　5. 销售
+　　 
+　　6. 研究与开发
+　　 
+　　7. 公司主要固定资产和经营设施
+　　 
+　　8. 公司财务
+　　 
+　　9. 主要债权和债务
+　　 
+　　10. 投资项目
+　　 
+　　11. 其他
+　　 
+　　12. 行业背景资料
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    初次会面
+　　（1）会面之前
+　　 
+　　在客户与中研普华的初次会面之前，双方应做一些准备工作，包括电话交流、网上调研对方情况、相互提供基本情况介绍（书面的咨询需求、公司简介等），尽量做到提前准备、心中有数，让会面时的效率更高。
+　　 
+　　（2）会面
+　　 
+　　在双方的初次会面中，通常应沟通如下内容：客户介绍自己的情况、面临的难点问题、希望咨询公司做的工作、对于项目启动和截止时间的考虑。
+　　 
+　　中研普华介绍自己的情况、与客户相关行业和相关功能领域的项目经验，对于客户的情况及问题做补充询问，介绍对问题的理解和解决问题的基本思路，估计项目所需时间周期和大致预算。
+　　 
+　　双方根据情况进一步交流，并约定下一步工作安排，包括：指派联络人、约定客户资料提供、约定中研普华提交初步项目建议书（或调查大纲）、约定下一次的会面安排等。
+　　 
+　　（3）会面之后
+　　 
+　　在初次会面之后，中研普华通常会向客户提交初次会面的备忘录。
+　　 
+提交项目建议书
+　　项目建议书是项目启动之前最重要的沟通文件，应该包括：咨询公司对于客户问题的理解、解决问题的思路、主要的方法论和工具、对项目成果的定义、工作安排、人员安排、项目预算、对双方配合工作的约定、咨询公司的相关经验。包含这些内容的项目建议书典型的篇幅是30-60页PPT。
+　　 
+　　项目建议书不能仅仅是方法论和以往项目成果的罗列，必须有针对性，必须提出对客户问题的深刻见解，必须提出解决问题的明确的思路（可以是假设，项目过程中需要检验，必要时修正）。
+　　 
+　　项目建议书不是一两次电话之后花2、3天就能做出来的，必须在双方较为深入和充分的沟通基础上，咨询公司才能对客户问题形成判断、提出思路。
+　　 
+合作签约
+　　在中研普华提交了项目建议书之后，双方就可以以此为基础做更为深入的沟通，通常需要一次或两次的对项目建议书的讲解和讨论；客户方应该由最终对项目决策的负责人出席，咨询公司应该派出拟负责此项目的项目经理出席。
+　　 
+　　通过沟通，客户可以对于中研普华的能力做出判断，双方也可以对项目目标、内容、思路、工作方法、时间安排等达成共识，在双方就预算等商务条款达成一致后，即可签约。同时双方还应签订《保密协议》，规定双方在知识产权和保密方面的权利和义务。
+　　 
+　　客户应该理解咨询项目的特殊性，主要表现为项目过程中，项目的目标、方法、成果、时间等都有可能发生变化。发生变化最常见的原因是，事前的估计无论多么充分，在项目进行中都有可能发现实际问题与预先判断的不一样。如果确实需要改变项目内容、时间等，应由双方协商、并以双方签字的书面形式确定下来，可能在必要时调整项目预算。
+　　 
+项目执行
+　　项目开始通常以正式的启动会为标志。项目启动会通常应由客户方高管层、相关部门负责人、项目协调或参与人员参加，咨询公司的项目团队也必须参加。项目启动会的目的是在客户内部宣布项目启动，说明项目目标、内容、工作计划等，明确传达各部门配合项目的要求。
+　　 
+　　项目启动后，紧接着的工作是内部诊断、行业研究等。内部诊断的方法主要是内部访谈、研讨、问卷调查、内部资料分析等，是大量、深入、与客户内部人员互动的工作，通过内部诊断，项目组可以对项目建议书中所提出的对问题的假设进行严谨的分析验证，搞清楚存在的问题，理清这些问题之间的关系，排出解决问题的轻重缓急的顺序，并提出更为准确和具体的解决问题的建议。
+　　 
+　　上述工作完成后，项目组通常会提出对问题的初步解决方案，以《中期报告》的形式提交，与客户共同讨论、修正，并将这些修正后的解决方案共同确定下来，在随后的工作中进行细化。对《中期报告》的汇报称为“中期汇报会”，是继“项目启动会”之后的又一个重要节点。
+　　 
+　　中期汇报会之后，解决问题的方向和初步方案已经确定，接下来的工作就是对方案的细化、制定实施计划，并在客户的组织内部征求意见，最后形成项目的《最终报告》，在“最终汇报会”上向客户提交、汇报，并由客户对项目成果进行验收。
+　　 
+项目验收
+　　项目验收的标志性节点是项目的最终汇报会。不过，对中研普华来说，最终汇报会往往是一个对双方共同工作所取得成就的庆典，因为绝大多数问题在最终汇报会之前已经在客户内部进行了充分沟通并取得了共识。尚普的咨询项目是项目组与客户共同工作，每一周的阶段性成果都会与客户进行讨论，有问题及早发现、及早解决，确保了项目方向不会跑偏、最终成果不会因脱离客户实际而无法操作。
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    准上市企业管理层配合工作原则
+　　※ 企业不需要动笔去写任何内容，要做的就是不断的进行管理层讨论
+　　 
+　　※ 讨论的细节都在《企业上市前细分市场调研及募投项目可行性研究管理层研讨会提纲》中，这个提纲是中研普华不断总结证监会发审规则形成的总结性的文件，内含证监会关心的1000多个问题。
+　　 
+　　※ 细分市场调研工作是募投可行性研究工作过程中非常关键的环节
+　　 
+　　※ 募投项目可行性研究一定要和公司未来的发展战略保持一致性
+　　 
+　　※ 所有的细分市场调研工作及管理层讨论都要形成标准的工作底稿，这是工作的最重要的证据，否则证监会对细分市场调研数据及募投项目的合理性、可靠性产生质疑。
+　　 
+　　※ 我们有一半的时间是在和准上市企业的董事长、生产主管、营销总监、研发主管、财务总监等进行反反复复的讨论，验证募投项目的可行性、必要性、逻辑性。保证募投项目不能出现任何瑕疵。
+　　 
+　　※ 我们的讨论工作尽可能的不占用管理层的正常工作时间。
+准上市企业管理层讨论（董事长）　
+企业管理层	沟通及讨论专题
+董事长
+公司未来发展战略，应该与募投项目保持一致性
+募投项目的背景分析、必要性、可行性
+公司核心竞争优势陈述，尤其是公司的技术自主创新能力分析
+未来3-5年的机会与风险分析
+准上市企业管理层讨论（财务总监）　
+企业管理层	沟通及讨论专题
+财务总监	公司现有的财务报表，最好是经过审计的
+财务现状是否支持公司的募投项目
+募投项目的成本费用分析
+未来盈利能力评估
+这两个募投的不确定性因素是很么，如果发生了不确定性因素，对策是什么
+准上市企业管理层讨论（人力资源）　　
+企业管理层	沟通及讨论专题
+人力资源
+各募投项目是否需要增加员工，增加多少，是否需要增加有特殊技能的人才
+获取高级人才的途径是什么，获取的难度有多大？
+公司的人力资源管理制度
+准上市企业管理层讨论（营销主管）
+企业管理层	沟通及讨论专题
+营销主管
+公司目前不同的业务发展现状
+公司目前的市场规模
+不同募投项目的市场前景,判断的依据是什么
+公司目前不同业务的竞争对手及竞争对手的优劣势分析
+上市以后的市场营销及竞争策略
+下游用户的区分和不同用户的需求
+公司的服务以及以后的价格变动趋势
+获取业务、订单的核心竞争优势是什么
+公司的战略伙伴及其作用
+公司客户的忠实度，公司重点客户是否有流失
+政策的变化对行业的影响，政策可能变化的趋势
+目前公司的业务结构是否合理，通过此次上市是否改变目前的营业结构
+公司的业务地域分布，今后重点发展区域
+是否细分客户目标群，在细分的目标客户群里面公司的优势在那里
+公司今后是否有并购的计划
+公司在营销成本上是否具有优势
+是否察觉的有影响力的公司进入此行业
+这个行业是否存在恶性的竞争或者非正当竞争
+竞争对手的目标客户是那些，是否有针对竞争对手的竞争策略
+目前公司对客户的需求有哪些是不能满足的
+准上市企业管理层讨论（研发）
+企业管理层	沟通及讨论专题
+研发主管
+公司目前正在研发的方向与产品
+目前的研究团队及研究能力评估
+公司专利技术及相关技术来源
+所采用的技术工艺与现有技术工艺比较优势
+所采用的技术工艺批量化生产的可行性
+公司的技术创新能力分析
+技术的可替代性分析，新的技术变革对公司的盈利有什么影响
+现有的研发能力是否能保持公司未来可持续性盈利
+准上市企业管理层讨论（生产）
+企业管理层	沟通及讨论专题
+生产主管
+生产设备清单、募投项目的设备选型依据
+公司如何组织生产新增部分产能或者新建工厂
+公司的生产技术人员如何组织，如何获取
+公司募投项目是否需要特殊技能的人才，如何获取
+采取的技术工艺与现有技术工艺是否一致，如果不一致，差别在哪里
+募投项目的建设工期、投产计划、不同阶段的不同目标设定
+未来五年的产能现状与产能扩张计划
+产销能力评估，请重点描述公司是否有能力消化掉新增产能，如何消化
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    咨询项目组分工
+
+上市前细分市场调研及募投项目可行性研究工作总体流程
+
+上市前细分市场调研和募投项目可行性研究工作具体流程
+
+提交具体成果的时间安排
+
+咨询过程中进行项目质量内控内核
+
+ 
+    
+    
+    
+    
+</body>
+</html>
